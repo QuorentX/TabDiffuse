@@ -1,0 +1,107 @@
+project:
+  name: TabDiffuse
+  seed: 42
+  log_level: INFO
+
+data:
+  max_rows_warning: 200000
+  min_rows: 32
+  sample_path: data/raw/sample_customer_data.csv
+  onehot_max_cardinality: 32
+  high_cardinality_threshold: 50
+  id_uniqueness_threshold: 0.98
+  missing_warning_threshold: 0.30
+  embedding_dim: 8
+  duplicate_warning_threshold: 0.05
+  imbalance_warning_threshold: 0.85
+
+split:
+  holdout_ratio: 0.15
+  validation_ratio: 0.15
+
+preprocessing:
+  numerical_imputer: median
+  numerical_scaler: standard
+  outlier_method: none
+  iqr_factor: 1.5
+  categorical_missing_token: __MISSING__
+  rare_category_min_frequency: 0.01
+  group_rare_categories: false
+
+diffusion:
+  sde: vp
+  beta_min: 0.1
+  beta_max: 20.0
+  schedule: linear
+  steps: 200
+  t_epsilon: 0.001
+  sampler: reverse_sde
+  time_sampling: discrete
+
+model:
+  hidden_dim: 256
+  layers: 4
+  dropout: 0.1
+  time_embedding_dim: 128
+
+training:
+  epochs: 80
+  batch_size: 256
+  learning_rate: 0.0001
+  weight_decay: 0.0001
+  seed: 42
+  device: auto
+  grad_clip: 1.0
+  condition_dropout: 0.15
+  guidance_scale: 1.0
+  balance_batches: false
+  early_stopping_patience: 0
+
+generation:
+  samples: 1000
+  sampling_steps: 200
+  temperature: 1.0
+  seed: 42
+  batch_size: 512
+
+evaluation:
+  privacy: true
+  utility: true
+  quality: true
+  max_rows_for_privacy: 4000
+  max_rows_for_utility: 20000
+  tsne_sample: 800
+  pca_sample: 4000
+  utility_estimators: 60
+
+privacy_thresholds:
+  exact_match_low: 0.005
+  exact_match_moderate: 0.02
+  nn_ratio_low: 0.75
+  nn_ratio_moderate: 0.45
+  membership_advantage_low: 0.05
+  membership_advantage_moderate: 0.12
+  disclosure_lift_low: 1.1
+  disclosure_lift_moderate: 1.4
+
+demo:
+  epochs: 8
+  batch_size: 64
+  hidden_dim: 128
+  layers: 2
+  steps: 40
+  sampling_steps: 40
+  max_rows: 600
+  samples: 400
+
+baselines:
+  enable_resample: true
+  enable_gaussian: true
+  enable_copula: true
+  enable_ctgan: false
+  ctgan_epochs: 30
+  baseline_samples: 1000
+
+mlflow:
+  enabled: false
+  tracking_uri: artifacts/mlruns

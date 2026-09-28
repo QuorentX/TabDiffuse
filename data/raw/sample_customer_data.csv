@@ -1,0 +1,1011 @@
+customer_id,customer_age,gender,income,education,occupation,city,credit_score,loan_amount,employment_years,marital_status,loan_status,monthly_expense,account_open_date
+C000001,25,Male,56585.12,Master,Teacher,Atlanta,617,89598.42,2.3,Single,Rejected,1568.63,2021-12-02
+C000002,56,Non-binary,90105.53,Master,Analyst,Phoenix,583,120616.98,13.8,Married,Rejected,4719.65,2021-01-12
+C000003,51,Female,72736.67,Doctorate,Technician,Boston,585,96306.24,10.2,Single,Rejected,3522.14,2020-08-30
+C000004,41,Female,64232.42,Bachelor,Technician,Atlanta,599,51920.06,5.3,Married,Rejected,2034.79,2018-09-30
+C000005,40,Male,57588.47,Bachelor,Manager,Chicago,619,62659.69,8.3,Married,Rejected,1634.11,2023-02-09
+C000006,60,Male,91150.34,Master,Designer,Denver,598,158247.04,15.5,Married,Approved,5723.51,2017-06-18
+C000007,24,Male,33417.73,Bachelor,Nurse,Seattle,551,47439.96,0.0,Married,Rejected,1395.67,2023-06-25
+C000008,53,Female,86302.44,Master,Manager,Boston,594,120807.93,18.2,Married,Rejected,3365.8,2018-06-04
+C000009,30,Female,51199.15,Bachelor,Technician,Austin,564,42593.49,4.0,Married,Rejected,1951.08,2018-01-26
+C000010,25,Male,48299.73,High School,Engineer,Austin,590,80835.19,5.7,Single,Rejected,2764.24,2019-04-13
+C000011,45,Female,44104.12,High School,Manager,Chicago,554,51445.58,9.0,Divorced,Rejected,2638.93,2021-09-24
+C000012,65,Female,93902.34,Master,Analyst,Phoenix,635,76124.81,19.6,Married,Rejected,5064.76,2021-06-02
+C000013,54,Male,57815.57,High School,Sales,Boston,552,121669.06,14.1,Divorced,Rejected,2894.31,2021-11-23
+C000014,56,Male,64605.71,High School,Designer,Atlanta,557,87964.42,10.4,Divorced,Rejected,3546.12,2015-10-21
+C000015,54,Male,83407.12,Bachelor,Technician,Atlanta,681,116574.99,18.3,Divorced,Rejected,2728.14,2016-06-13
+C000016,57,Female,75920.49,High School,Designer,Austin,601,164620.85,15.2,Married,Rejected,3689.79,2022-08-20
+C000017,44,Female,62746.27,Bachelor,Analyst,Seattle,566,70457.19,12.2,Married,Rejected,2185.95,2023-10-28
+C000018,26,Male,58004.16,Master,Sales,Austin,563,121990.58,0.4,Single,Rejected,2716.55,2016-02-24
+C000019,59,Female,78267.98,High School,Manager,Phoenix,550,131597.68,15.9,Married,Rejected,4621.32,2023-02-18
+C000020,41,Female,55670.27,Master,Technician,Phoenix,556,87750.96,6.4,Married,Rejected,3187.71,2017-05-12
+C000021,44,Female,80349.2,Master,Designer,Seattle,666,72194.65,13.5,Married,Approved,3474.82,2023-10-22
+C000022,38,Male,65088.66,Bachelor,Nurse,Seattle,584,38271.13,8.4,Married,Rejected,2682.44,2023-12-08
+C000023,29,Male,40007.58,High School,Technician,Seattle,617,49778.73,4.8,Single,Rejected,2388.52,2020-09-23
+C000024,63,Male,79105.47,Bachelor,Nurse,Miami,630,40920.52,21.9,Single,Rejected,4618.56,2016-09-16
+C000025,56,Male,77038.52,High School,Manager,Chicago,609,47818.14,18.4,Married,Rejected,4205.57,2022-02-02
+C000026,50,Female,64394.74,Bachelor,Analyst,Phoenix,627,97368.43,14.7,Married,Rejected,1585.76,2015-11-29
+C000027,39,Female,69859.71,Doctorate,Engineer,Chicago,513,120969.22,4.0,Single,Rejected,2570.25,2018-01-02
+C000028,58,Male,91893.71,Doctorate,Analyst,Boston,643,72183.63,14.0,Single,Rejected,5197.42,2020-09-28
+C000029,46,Female,75461.93,Master,Technician,Atlanta,599,131699.99,8.1,Married,Rejected,4020.66,2015-08-11
+C000030,41,Female,59135.41,Bachelor,Teacher,Seattle,641,125043.83,10.9,Married,Rejected,3009.0,2018-07-15
+C000031,41,Female,56887.6,Bachelor,Engineer,Miami,618,100315.55,9.3,Single,Rejected,2421.17,2022-03-03
+C000032,31,Female,46894.83,Bachelor,Manager,Boston,520,86005.86,0.7,Single,Rejected,1989.83,2015-10-29
+C000033,25,Male,50927.36,Bachelor,Engineer,Phoenix,602,86128.93,1.6,Married,Rejected,1925.51,2018-04-19
+C000034,46,Male,75532.21,Bachelor,Teacher,Miami,576,66623.46,6.7,Single,Rejected,4144.88,2015-01-13
+C000035,61,Female,61966.77,High School,Analyst,Denver,569,69000.79,17.1,Married,Approved,2237.64,2020-12-02
+C000036,23,Male,35089.72,High School,Teacher,Austin,545,74171.04,0.0,Married,Rejected,1560.69,2015-09-18
+C000037,60,Male,74174.38,Bachelor,Designer,Atlanta,613,120463.5,18.3,Single,Rejected,3541.16,2017-07-11
+C000038,59,Male,77868.23,High School,Sales,Seattle,656,143382.04,17.4,Married,Approved,4346.24,2019-09-14
+C000039,33,Male,44702.17,High School,Designer,Chicago,589,95965.76,10.8,Single,Rejected,1512.78,2016-12-05
+C000040,50,Female,76583.64,Master,Teacher,Denver,631,68423.1,15.0,Single,Rejected,4038.78,2017-01-28
+C000041,28,Male,59720.75,Doctorate,Engineer,Chicago,620,62519.7,2.2,Divorced,Rejected,1594.6,2022-07-05
+C000042,55,Female,76793.42,Bachelor,Teacher,Chicago,653,122574.8,17.0,Married,Rejected,2364.81,2021-12-29
+C000043,53,Female,78476.63,Master,Nurse,Seattle,631,42487.85,9.9,Divorced,Approved,3108.19,2015-09-23
+C000044,37,Female,73738.15,Doctorate,Sales,Boston,647,108474.16,4.4,Single,Rejected,1921.71,2022-09-17
+C000045,24,Female,36617.87,High School,Manager,Atlanta,568,68650.09,2.6,Single,Rejected,2059.53,2019-03-18
+C000046,65,Female,68483.99,Bachelor,Engineer,Chicago,602,105311.51,12.9,Married,Rejected,3904.53,2016-04-20
+C000047,41,Female,65369.75,Bachelor,Manager,Austin,628,65511.51,8.7,Married,Rejected,1857.3,2023-02-26
+C000048,62,Male,69155.68,High School,Technician,Atlanta,590,119706.89,14.8,Divorced,Rejected,3729.59,2018-01-12
+C000049,52,Female,87979.67,Master,Engineer,Denver,625,65831.12,13.7,Single,Rejected,3790.06,2017-12-05
+C000050,56,Female,67302.5,Bachelor,Designer,Seattle,652,136026.09,12.1,Married,Rejected,3311.01,2016-04-26
+C000051,55,Female,65550.69,Bachelor,Nurse,Chicago,661,44020.93,15.9,Married,Rejected,3683.71,2022-12-21
+C000052,29,Female,40299.77,High School,Teacher,Denver,553,79307.33,3.8,Married,Rejected,2103.11,2017-07-30
+C000053,37,Female,61456.92,High School,Designer,Chicago,570,82737.98,11.1,Single,Rejected,1912.44,2020-04-30
+C000054,42,Female,71316.75,Master,Designer,Seattle,651,87626.89,9.3,Married,Rejected,1685.09,2017-02-24
+C000055,43,Female,50351.51,High School,Analyst,Phoenix,591,68031.18,7.5,Single,Rejected,2130.9,2023-01-20
+C000056,23,Male,28065.21,High School,Designer,Phoenix,548,23584.62,0.6,Married,Rejected,1505.33,2022-01-28
+C000057,46,Male,64092.85,High School,Designer,Austin,559,81914.86,7.2,Married,Rejected,2810.07,2019-07-11
+C000058,28,Male,42644.2,Bachelor,Manager,Atlanta,579,82922.67,4.5,Divorced,Rejected,1633.86,2018-02-08
+C000059,55,Male,71806.83,Bachelor,Engineer,Boston,613,133677.32,16.4,Married,Rejected,1910.02,2020-11-21
+C000060,52,Male,83589.72,Bachelor,Technician,Chicago,612,64964.47,20.4,Married,Rejected,4889.66,2019-06-16
+C000061,63,Non-binary,59758.5,High School,Sales,Chicago,598,98291.71,16.3,Married,Rejected,1911.55,2023-06-18
+C000062,55,Male,73425.05,High School,Sales,Phoenix,602,143665.17,14.0,Married,Rejected,3786.55,2021-01-22
+C000063,37,Male,67450.71,Master,Sales,Chicago,579,127724.99,5.5,Divorced,Rejected,3274.85,2015-03-31
+C000064,65,Male,90937.7,Bachelor,Technician,Austin,658,111269.12,19.5,Single,Rejected,2790.76,2022-05-25
+C000065,39,Male,63706.24,Bachelor,Sales,Seattle,631,37061.6,9.0,Divorced,Rejected,1876.01,2016-09-25
+C000066,35,Female,53633.36,Bachelor,Technician,Seattle,608,111717.64,6.2,Married,Rejected,2271.96,2017-09-16
+C000067,62,Female,86667.59,Master,Sales,Chicago,636,101661.49,20.7,Married,Rejected,3077.5,2018-12-03
+C000068,38,Female,46328.46,High School,Analyst,Denver,584,51594.16,5.8,Married,Rejected,2398.11,2016-11-18
+C000069,24,Male,41010.51,Bachelor,Analyst,Denver,571,73457.01,4.4,Married,Rejected,2327.77,2023-06-23
+C000070,42,Male,66717.36,Bachelor,Designer,Miami,556,63298.28,10.7,Single,Rejected,2352.15,2023-10-20
+C000071,57,Female,81711.65,Bachelor,Designer,Denver,635,156810.49,15.5,Married,Rejected,3620.29,2016-05-26
+C000072,29,Male,65997.07,Master,Sales,Boston,589,41531.14,2.9,Single,Rejected,1399.22,2017-11-17
+C000073,42,Male,72318.09,Bachelor,Teacher,Boston,699,127222.64,16.0,Single,Rejected,2617.32,2018-05-02
+C000074,26,Male,57768.59,Master,Manager,Atlanta,619,123731.2,0.2,Married,Rejected,3153.3,2021-01-13
+C000075,52,Female,79157.61,Master,Teacher,Miami,645,173577.37,14.3,Single,Approved,4058.09,2020-05-17
+C000076,42,Female,56118.46,Bachelor,Nurse,Austin,587,116191.45,7.1,Single,Rejected,2721.69,2021-02-04
+C000077,36,Male,73422.55,Master,Engineer,Seattle,621,145398.39,11.7,Married,Approved,2187.39,2015-04-12
+C000078,31,Male,51391.66,Bachelor,Analyst,Denver,548,50060.43,7.1,Single,Rejected,2187.4,2019-08-16
+C000079,46,Non-binary,73654.45,Master,Manager,Atlanta,548,157863.75,9.0,Married,Rejected,2919.6,2016-11-23
+C000080,51,Male,65428.57,Bachelor,Sales,Boston,578,135922.9,14.5,Single,Rejected,4039.1,2017-01-20
+C000081,64,Male,78531.28,Bachelor,Engineer,Miami,622,110606.06,19.2,Married,Rejected,3613.82,2021-12-19
+C000082,41,Female,63158.3,Bachelor,Sales,Chicago,515,74749.87,7.4,Married,Rejected,3438.54,2016-04-09
+C000083,28,Female,47782.92,High School,Analyst,Denver,544,32767.34,5.5,Single,Rejected,1439.04,2015-04-14
+C000084,59,Female,73377.3,Bachelor,Nurse,Miami,609,110365.18,17.5,Married,Rejected,2829.2,2019-05-19
+C000085,49,Male,82219.74,Master,Sales,Boston,612,139027.67,12.8,Divorced,Rejected,4270.94,2021-08-14
+C000086,53,Male,68968.37,Bachelor,Engineer,Phoenix,583,81851.26,13.7,Married,Approved,2297.72,2019-08-06
+C000087,25,Female,38075.63,High School,Manager,Chicago,540,45319.52,3.3,Single,Rejected,1726.09,2016-06-14
+C000088,35,Male,64840.88,Bachelor,Teacher,Chicago,639,95616.27,6.9,Married,Rejected,2858.22,2021-12-15
+C000089,56,Female,72471.22,High School,Teacher,Chicago,619,39658.64,15.3,Married,Rejected,4435.9,2018-06-07
+C000090,59,Female,72995.35,High School,Sales,Boston,577,155361.27,14.6,Single,Rejected,2026.69,2021-05-20
+C000091,41,Female,95862.19,Doctorate,Designer,Denver,639,95175.79,13.6,Married,Rejected,5314.2,2016-10-25
+C000092,58,Female,69387.37,Bachelor,Nurse,Miami,599,51312.97,13.0,Single,Rejected,2643.55,2023-03-16
+C000093,59,Male,73504.67,Bachelor,Analyst,Denver,593,37438.15,17.6,Married,Rejected,3077.42,2017-07-20
+C000094,38,Female,52042.2,Bachelor,Designer,Chicago,552,101831.78,6.7,Single,Rejected,2295.93,2023-09-25
+C000095,62,Male,77185.82,High School,Nurse,Seattle,656,151859.44,22.6,Single,Rejected,2459.84,2018-05-24
+C000096,34,Male,27035.72,High School,Teacher,Boston,531,17898.22,3.4,Divorced,Rejected,1639.72,2021-07-18
+C000097,32,Female,48089.23,Bachelor,Sales,Boston,529,36490.6,3.0,Married,Rejected,2999.71,2019-07-08
+C000098,52,Female,64789.7,Bachelor,Engineer,Miami,590,81727.92,10.7,Divorced,Rejected,3859.94,2015-09-09
+C000099,50,Male,92801.28,Doctorate,Designer,Phoenix,641,75697.74,13.5,Divorced,Rejected,5263.63,2015-11-19
+C000100,27,Female,45750.73,Bachelor,Engineer,Denver,491,80104.76,0.0,Married,Rejected,2227.7,2018-08-23
+C000101,59,Male,72963.62,Bachelor,Sales,Denver,607,43680.95,15.0,Single,Rejected,3278.81,2016-09-26
+C000102,30,Female,57234.75,Master,Sales,Miami,598,82103.58,0.0,Single,Rejected,2889.1,2020-06-22
+C000103,58,Male,91501.03,Master,Teacher,Chicago,648,105294.41,16.6,Married,Approved,2220.24,2016-03-29
+C000104,21,Male,44084.45,Master,Nurse,Austin,639,56886.98,0.0,Single,Rejected,2336.65,2020-04-22
+C000105,57,Female,85303.47,Doctorate,Analyst,Phoenix,665,104248.27,11.4,Divorced,Rejected,3563.08,2016-11-03
+C000106,57,Female,74190.79,Master,Technician,Boston,680,56412.49,18.6,Single,Rejected,3597.46,2016-08-19
+C000107,56,Non-binary,72540.95,Master,Manager,Austin,698,63435.5,11.5,Single,Rejected,2892.72,2018-04-20
+C000108,51,Female,59955.68,High School,Designer,Phoenix,618,36583.34,15.3,Single,Rejected,2224.6,2020-03-29
+C000109,42,Female,68374.58,Master,Engineer,Atlanta,601,47587.72,7.3,Single,Rejected,1904.83,2018-08-05
+C000110,53,Female,71808.29,Bachelor,Engineer,Atlanta,652,155279.77,18.3,Single,Approved,2770.17,2018-02-22
+C000111,33,Female,52073.05,Bachelor,Sales,Phoenix,563,50804.43,7.6,Married,Rejected,1931.7,2018-01-22
+C000112,56,Male,64172.31,Bachelor,Technician,Chicago,599,65580.47,12.3,Single,Rejected,1905.83,2018-01-18
+C000113,46,Male,80714.84,Doctorate,Designer,Chicago,595,57798.35,8.4,Married,Rejected,2288.23,2018-08-19
+C000114,42,Female,,Doctorate,Analyst,Atlanta,640,149034.23,10.9,Divorced,Rejected,3788.64,2022-07-02
+C000115,44,Male,56949.78,High School,Teacher,Denver,553,117945.44,9.3,Married,Rejected,2362.11,2020-03-13
+C000116,47,Female,74679.36,Master,Engineer,Denver,588,137602.38,10.9,Married,Rejected,4098.43,2018-10-18
+C000117,22,Female,44343.03,Master,Engineer,Phoenix,594,68352.42,4.0,Single,Rejected,1339.39,2021-09-28
+C000118,27,Male,40442.71,Bachelor,Nurse,Denver,551,76133.23,0.8,Single,Rejected,1725.91,2019-09-29
+C000119,32,Non-binary,41067.25,High School,Manager,Atlanta,496,48754.69,5.3,Single,Rejected,1155.25,2023-07-15
+C000120,26,Female,38090.13,High School,Analyst,Seattle,511,74700.29,5.2,Divorced,Rejected,1803.77,2020-01-24
+C000121,41,Female,72470.01,Master,Manager,Denver,575,134611.75,11.1,Married,Rejected,3520.78,2016-12-10
+C000122,51,Male,79333.72,Bachelor,Sales,Atlanta,576,39899.46,12.6,Single,Rejected,3987.33,2020-01-24
+C000123,51,Male,91911.9,Doctorate,Sales,Phoenix,645,122173.9,12.2,Married,Approved,3730.02,2021-12-16
+C000124,42,Female,49486.71,Bachelor,Technician,Chicago,574,47004.87,4.4,Married,Rejected,2085.47,2016-12-01
+C000125,60,Female,97320.64,Doctorate,Analyst,Denver,671,62927.13,13.8,Married,Rejected,2954.28,2016-10-26
+C000126,47,Male,71899.65,Bachelor,Technician,Denver,626,139379.87,12.2,Married,Approved,2762.68,2020-05-23
+C000127,24,Female,46833.28,Master,Teacher,Denver,606,24049.57,1.3,Divorced,Rejected,1472.68,2022-12-15
+C000128,56,Female,72793.38,High School,Sales,Miami,617,126753.51,15.3,Married,Approved,3273.65,2018-01-04
+C000129,47,Female,69117.44,Bachelor,Technician,Seattle,614,150670.96,14.2,Married,Rejected,2723.68,2019-07-23
+C000130,50,Female,64965.9,Master,Sales,Seattle,635,85718.19,9.3,Single,Approved,3319.77,2020-11-21
+C000131,47,Male,85833.25,Doctorate,Engineer,Austin,655,97086.76,10.7,Single,Approved,3078.97,2020-12-19
+C000132,46,Male,76228.32,Master,Nurse,Chicago,625,116622.93,11.4,Divorced,Rejected,2430.93,2016-04-23
+C000133,25,Male,32674.12,High School,Nurse,Miami,579,61034.81,0.1,Married,Rejected,1032.97,2018-07-22
+C000134,46,Male,70250.32,Bachelor,Analyst,Chicago,535,63817.38,14.9,Single,Rejected,1544.71,2023-12-10
+C000135,57,Non-binary,66386.8,High School,Technician,Boston,595,61486.95,18.1,Married,Rejected,2796.65,2022-12-28
+C000136,34,Female,,High School,Analyst,Denver,556,77095.37,6.7,Single,Rejected,2649.21,2021-12-11
+C000137,48,Female,73398.19,Bachelor,Nurse,Denver,655,153974.41,16.8,Married,Rejected,3671.51,2015-03-21
+C000138,22,Male,42141.92,Bachelor,Technician,Boston,605,42451.57,0.0,Single,Rejected,1826.59,2018-10-02
+C000139,36,Female,66639.46,Master,Analyst,Austin,549,76001.17,6.7,Married,Approved,1691.61,2015-06-18
+C000140,41,Male,62990.09,Master,Designer,Chicago,649,137864.3,9.8,Married,Rejected,3106.66,2017-09-16
+C000141,66,Male,84978.26,Master,Nurse,Seattle,591,67946.72,16.8,Single,Rejected,2160.34,2022-10-12
+C000142,30,Female,45085.76,Master,Analyst,Austin,546,28442.17,5.0,Single,Rejected,1729.28,2018-06-27
+C000143,33,Female,44344.71,High School,Technician,Atlanta,541,66631.64,2.4,Married,Rejected,2500.3,2016-07-07
+C000144,39,Female,44736.91,High School,Sales,Miami,563,24214.02,9.9,Single,Rejected,1591.79,2021-06-27
+C000145,66,Female,,Bachelor,Technician,Austin,588,72428.82,22.3,Single,Rejected,2317.68,2021-10-29
+C000146,60,Female,91286.46,Master,Manager,Phoenix,657,142202.0,17.6,Married,Rejected,3018.88,2020-11-23
+C000147,22,Female,36475.29,High School,Nurse,Atlanta,562,59132.69,0.0,Single,Rejected,1574.1,2022-04-11
+C000148,31,Male,39849.46,Bachelor,Manager,Boston,591,54503.03,1.9,Single,Rejected,1431.16,2021-04-25
+C000149,58,Male,78965.88,Bachelor,Engineer,Austin,606,90998.04,17.5,Single,Rejected,3680.49,2020-09-15
+C000150,23,Male,45480.05,High School,Sales,Phoenix,547,67289.37,1.3,Married,Rejected,1782.31,2022-12-30
+C000151,60,Female,81551.2,Bachelor,Teacher,Austin,590,129972.69,9.3,Single,Rejected,3348.33,2017-11-30
+C000152,33,Female,71985.51,Master,Sales,Miami,660,134319.17,8.9,Single,Rejected,2280.52,2019-02-07
+C000153,63,Female,85064.87,Bachelor,Engineer,Boston,533,157172.36,18.4,Single,Rejected,4652.96,2020-01-24
+C000154,34,Female,36090.72,High School,Technician,Seattle,518,58833.69,3.6,Single,Rejected,1483.38,2021-01-08
+C000155,40,Male,76294.09,Master,Manager,Austin,614,154128.97,11.2,Single,Rejected,3977.71,2019-04-15
+C000156,51,Female,67300.33,Bachelor,Manager,Atlanta,560,129529.1,11.1,Single,Rejected,2709.1,2018-12-21
+C000157,26,Female,55834.23,Master,Designer,Austin,564,40564.59,0.6,Single,Rejected,1525.77,2016-06-27
+C000158,46,Male,54274.58,High School,Analyst,Atlanta,578,115407.03,11.9,Single,Rejected,2161.1,2020-09-27
+C000159,44,Female,68576.22,Bachelor,Teacher,Phoenix,590,138247.06,15.1,Married,Rejected,2772.99,2016-02-11
+C000160,57,Female,83030.21,Bachelor,Designer,Seattle,632,86814.41,20.1,Single,Rejected,3389.84,2019-04-09
+C000161,66,Female,79673.44,High School,Nurse,Denver,635,42570.59,20.3,Single,Approved,4608.74,2018-09-05
+C000162,51,Male,83866.81,Master,Analyst,Denver,617,128044.42,14.3,Divorced,Rejected,4975.79,2021-12-26
+C000163,39,Male,49190.67,High School,Engineer,Denver,561,61257.63,10.2,Divorced,Rejected,2621.57,2019-04-15
+C000164,39,Female,37341.19,High School,Manager,Austin,546,66253.1,4.5,Married,Rejected,1823.28,2015-01-18
+C000165,40,Male,72505.44,Bachelor,Engineer,Denver,596,100914.49,10.2,Single,Rejected,2974.8,2019-07-21
+C000166,58,Male,91205.67,Bachelor,Analyst,Boston,556,57462.65,13.9,Single,Rejected,4236.97,2016-12-09
+C000167,35,Male,67338.32,Master,Technician,Seattle,612,61679.79,7.2,Single,Rejected,2452.51,2018-06-02
+C000168,28,Female,55601.76,Doctorate,Teacher,Phoenix,577,111219.67,2.7,Single,Rejected,3220.2,2017-08-31
+C000169,36,Female,44002.29,High School,Engineer,Phoenix,608,24820.48,8.1,Single,Rejected,2270.42,2016-07-01
+C000170,22,Male,45774.09,Bachelor,Analyst,Phoenix,579,80211.7,1.2,Married,Rejected,1429.51,2023-07-03
+C000171,25,Female,42717.25,High School,Sales,Atlanta,579,42559.37,0.0,Single,Rejected,2803.47,2017-04-12
+C000172,25,Male,37737.29,Bachelor,Nurse,Seattle,528,47907.02,2.6,Married,Rejected,2072.26,2019-07-24
+C000173,56,Male,93873.47,Doctorate,Manager,Miami,636,131677.18,16.9,Single,Approved,3979.68,2022-06-13
+C000174,54,Female,76327.88,Bachelor,Engineer,Denver,573,70613.84,15.5,Single,Rejected,4362.23,2018-04-11
+C000175,53,Male,77847.07,Bachelor,Teacher,Chicago,584,125203.99,13.6,Married,Rejected,2204.52,2023-06-07
+C000176,42,Male,65032.26,Bachelor,Teacher,Chicago,646,109179.52,13.8,Married,Rejected,1529.17,2018-08-21
+C000177,53,Male,71953.42,Master,Teacher,Boston,668,46381.25,14.7,Single,Rejected,2766.35,2023-07-08
+C000178,28,Female,53480.37,Bachelor,Nurse,Atlanta,536,60736.37,4.6,Married,Rejected,2601.06,2019-01-24
+C000179,62,Male,83748.67,High School,Analyst,Phoenix,604,147853.36,20.6,Single,Rejected,2847.04,2015-02-17
+C000180,44,Male,64397.47,Bachelor,Nurse,Miami,593,111200.51,11.1,Single,Rejected,3663.61,2022-10-21
+C000181,64,Male,74512.72,High School,Manager,Chicago,617,106242.15,16.0,Married,Rejected,2599.25,2022-10-09
+C000182,28,Male,32355.81,High School,Manager,Phoenix,480,58953.81,0.0,Single,Rejected,1065.28,2023-08-28
+C000183,43,Male,47131.35,High School,Technician,Denver,516,32190.54,8.3,Married,Rejected,2108.0,2016-02-12
+C000184,53,Female,81800.54,Bachelor,Designer,Miami,632,57338.84,16.0,Married,Rejected,2101.99,2022-08-05
+C000185,43,Female,64064.32,Bachelor,Manager,Denver,525,103638.89,8.7,Single,Rejected,3402.51,2018-01-27
+C000186,41,Female,66643.36,Bachelor,Technician,Phoenix,583,111872.04,11.1,Single,Rejected,2396.46,2022-07-27
+C000187,28,Male,58235.48,Bachelor,Manager,Chicago,577,109756.15,3.8,Single,Rejected,3484.84,2023-09-01
+C000188,38,Male,72283.43,Doctorate,Analyst,Miami,638,58387.86,11.2,Divorced,Rejected,3301.62,2016-10-15
+C000189,31,Male,54843.9,Master,Manager,Denver,577,75602.97,3.8,Married,Rejected,1223.51,2018-05-04
+C000190,34,Female,56473.75,Bachelor,Engineer,Chicago,570,91680.24,7.2,Single,Rejected,1531.88,2017-06-01
+C000191,52,Male,,High School,Technician,Miami,620,53803.05,14.9,Single,Rejected,1629.37,2017-09-27
+C000192,49,Male,87271.77,Master,Designer,Austin,643,120328.34,16.4,Married,Rejected,4910.66,2020-05-12
+C000193,48,Female,52199.6,High School,Nurse,Seattle,542,82754.98,7.0,Single,Rejected,2398.38,2018-09-16
+C000194,37,Male,48836.28,Bachelor,Analyst,Austin,574,42222.1,5.9,Married,Rejected,1713.5,2020-11-25
+C000195,65,Male,96158.53,Master,Engineer,Seattle,662,109472.43,21.3,Married,Approved,3032.47,2021-01-24
+C000196,25,Male,51321.41,Bachelor,Nurse,Chicago,635,44535.49,6.4,Married,Approved,2487.33,2016-10-27
+C000197,36,Female,71226.07,Master,Designer,Atlanta,625,144945.27,7.4,Single,Approved,2006.25,2015-05-25
+C000198,26,Male,47575.93,Bachelor,Designer,Seattle,600,42940.04,1.7,Single,Rejected,2007.54,2021-09-17
+C000199,36,Non-binary,61385.37,Bachelor,Sales,Denver,569,43302.4,8.8,Single,Rejected,3225.84,2016-08-19
+C000200,65,Male,80880.74,High School,Designer,Denver,603,45274.13,21.3,Married,Rejected,2436.57,2016-10-18
+C000201,37,Male,45896.09,High School,Nurse,Miami,553,26455.47,6.1,Divorced,Rejected,1926.32,2020-05-29
+C000202,62,Non-binary,,Bachelor,Nurse,Miami,617,64307.24,18.6,Single,Approved,2749.16,2017-05-13
+C000203,43,Female,60076.02,High School,Manager,Denver,556,92153.88,13.0,Married,Rejected,2537.69,2016-09-15
+C000204,53,Male,85258.63,Master,Technician,Denver,682,45187.48,19.2,Married,Approved,4681.46,2017-10-04
+C000205,42,Male,66727.0,High School,Sales,Austin,614,65890.55,11.3,Single,Rejected,3306.55,2019-09-13
+C000206,33,Non-binary,61764.49,Bachelor,Nurse,Miami,569,36989.75,5.6,Single,Rejected,3180.48,2022-08-11
+C000207,56,Female,87955.76,Master,Technician,Boston,647,104334.88,15.0,Single,Rejected,3580.99,2023-11-22
+C000208,65,Female,97212.89,Master,Manager,Phoenix,654,56634.33,20.5,Married,Approved,3099.93,2021-08-01
+C000209,33,Male,51931.61,Bachelor,Nurse,Seattle,596,79601.86,5.1,Married,Rejected,2790.27,2023-01-31
+C000210,56,Female,67963.89,Bachelor,Analyst,Boston,566,113521.53,15.7,Married,Rejected,2941.18,2019-10-10
+C000211,33,Male,64932.42,Doctorate,Analyst,Austin,588,113194.98,2.5,Married,Approved,1807.42,2018-09-03
+C000212,53,Female,77589.21,Bachelor,Teacher,Boston,618,68385.87,17.5,Married,Rejected,3110.66,2022-05-16
+C000213,57,Non-binary,82668.45,Master,Nurse,Atlanta,635,163390.07,12.3,Divorced,Rejected,3449.38,2017-09-20
+C000214,41,Male,70864.09,Master,Sales,Seattle,579,118590.34,7.6,Married,Rejected,3428.61,2022-04-24
+C000215,54,Female,88372.56,Master,Manager,Boston,546,52697.03,14.6,Married,Rejected,2701.84,2023-12-24
+C000216,33,Male,46582.71,High School,Teacher,Boston,545,58195.94,11.0,Married,Rejected,2597.26,2018-07-04
+C000217,24,Female,38175.79,Bachelor,Manager,Chicago,552,68914.41,0.5,Married,Rejected,1385.55,2020-09-11
+C000218,25,Male,43712.76,High School,Technician,Denver,545,44959.43,0.2,Married,Rejected,1429.08,2022-01-11
+C000219,41,Male,63924.64,Bachelor,Analyst,Austin,637,73427.03,7.3,Divorced,Rejected,1917.47,2022-01-17
+C000220,62,Male,101461.88,Doctorate,Engineer,Miami,687,159328.28,22.3,Married,Approved,5363.21,2016-11-08
+C000221,26,Female,42283.13,Bachelor,Engineer,Seattle,556,25129.6,0.0,Married,Rejected,1632.92,2023-08-29
+C000222,41,Female,56727.16,Bachelor,Designer,Seattle,574,121611.09,6.0,Married,Rejected,2355.98,2019-07-12
+C000223,53,Male,73454.36,High School,Designer,Boston,656,58515.05,21.5,Married,Approved,2262.88,2015-05-18
+C000224,30,Male,71997.8,Doctorate,Manager,Seattle,589,39263.46,5.9,Married,Rejected,3563.49,2016-01-24
+C000225,54,Male,77817.34,High School,Sales,Chicago,582,39612.85,11.2,Married,Rejected,4192.96,2021-07-18
+C000226,35,Female,47452.57,High School,Nurse,Boston,527,55958.09,6.2,Married,Rejected,1597.72,2018-11-03
+C000227,58,Female,73525.54,High School,Engineer,Atlanta,646,147288.61,16.1,Divorced,Rejected,4252.78,2015-12-21
+C000228,47,Male,50048.88,High School,Manager,Boston,598,94772.34,13.7,Single,Rejected,1433.12,2019-09-06
+C000229,46,Female,68712.88,Bachelor,Analyst,Austin,591,140894.23,16.1,Married,Approved,1739.75,2020-05-23
+C000230,29,Female,58248.83,Bachelor,Engineer,Chicago,572,81981.15,4.9,Married,Rejected,2941.51,2015-09-20
+C000231,42,Male,62549.36,Bachelor,Teacher,Chicago,600,78991.62,7.7,Divorced,Rejected,2827.1,2018-02-24
+C000232,60,Female,45075.36,High School,Nurse,Boston,591,52105.48,19.0,Divorced,Rejected,1403.91,2019-02-28
+C000233,21,Male,36461.15,High School,Engineer,Denver,523,21107.75,0.0,Married,Rejected,1420.47,2022-01-07
+C000234,55,Female,83536.05,Bachelor,Teacher,Denver,581,170930.32,11.8,Married,Rejected,3318.21,2020-11-10
+C000235,43,Male,35345.31,High School,Nurse,Phoenix,561,47486.4,4.7,Single,Rejected,1452.22,2015-10-13
+C000236,54,Male,78173.19,Bachelor,Manager,Boston,582,99562.52,9.9,Divorced,Rejected,3623.75,2020-07-10
+C000237,51,Male,41074.23,High School,Sales,Phoenix,555,56509.3,10.5,Single,Rejected,2356.77,2023-02-12
+C000238,40,Female,61919.62,Bachelor,Manager,Seattle,532,114555.18,5.1,Married,Rejected,2496.61,2015-06-28
+C000239,35,Male,55856.26,Bachelor,Designer,Miami,583,49242.92,7.2,Married,Approved,2571.78,2023-11-16
+C000240,49,Male,49331.2,Bachelor,Designer,Seattle,574,84200.02,8.8,Married,Rejected,2172.71,2015-11-10
+C000241,27,Female,37859.9,High School,Engineer,Boston,529,64676.38,0.0,Single,Rejected,688.97,2020-08-07
+C000242,47,Female,62140.91,High School,Designer,Denver,579,120816.84,8.4,Single,Rejected,2036.85,2018-02-28
+C000243,25,Female,54299.82,Master,Designer,Miami,597,27951.49,0.8,Married,Rejected,3237.04,2021-07-28
+C000244,50,Male,62887.07,High School,Designer,Seattle,603,49660.18,10.9,Married,Rejected,2131.28,2022-07-31
+C000245,49,Male,71065.71,Bachelor,Engineer,Phoenix,633,92440.83,16.4,Single,Rejected,3953.08,2022-08-30
+C000246,24,Male,29920.97,Bachelor,Teacher,Seattle,541,58223.77,0.0,Married,Rejected,825.19,2022-10-28
+C000247,55,Male,81997.02,Bachelor,Sales,Phoenix,602,175530.91,17.2,Single,Rejected,4478.51,2022-05-05
+C000248,40,Male,71089.62,Bachelor,Designer,Chicago,556,107436.08,8.3,Married,Rejected,1944.6,2017-10-14
+C000249,57,Male,92208.13,Master,Designer,Austin,611,79356.88,15.4,Single,Rejected,5559.57,2019-03-09
+C000250,22,Female,36638.81,Master,Sales,Denver,565,29816.44,0.0,Single,Rejected,1673.43,2021-06-19
+C000251,29,Male,30411.68,High School,Teacher,Boston,523,48265.0,3.6,Single,Rejected,596.85,2016-07-07
+C000252,43,Female,54662.49,Bachelor,Nurse,Denver,582,46852.18,7.5,Married,Rejected,2631.38,2020-03-11
+C000253,29,Male,30672.94,High School,Technician,Seattle,520,44176.66,4.3,Married,Rejected,1646.66,2019-10-08
+C000254,36,Male,55337.44,Bachelor,Sales,Atlanta,523,106202.52,6.1,Married,Rejected,2008.68,2023-11-05
+C000255,51,Female,69987.25,Bachelor,Engineer,,619,81373.72,10.4,Married,Approved,2571.5,2015-06-13
+C000256,27,Male,32524.12,High School,Engineer,Denver,542,37188.17,5.7,Single,Rejected,1481.28,2015-11-07
+C000257,52,Female,78073.52,Bachelor,Analyst,Atlanta,584,43833.49,14.6,Single,Rejected,4132.62,2015-04-09
+C000258,25,Non-binary,64421.68,Doctorate,Engineer,Boston,554,60037.39,0.8,Single,Rejected,2158.69,2019-12-05
+C000259,29,Male,37381.82,High School,Technician,Boston,566,63060.35,4.2,Divorced,Rejected,2113.82,2019-12-15
+C000260,48,Male,66248.96,Bachelor,Teacher,Miami,640,73712.91,11.5,Single,Rejected,2237.83,2020-04-30
+C000261,57,Female,60919.19,Bachelor,Designer,Austin,584,46853.44,13.1,Divorced,Rejected,1696.57,2017-03-06
+C000262,28,Female,37549.16,High School,Analyst,Chicago,544,25526.11,3.6,Single,Rejected,1747.18,2017-10-07
+C000263,34,Female,43337.4,High School,Sales,Denver,588,28671.62,4.1,Single,Rejected,1048.29,2018-10-01
+C000264,63,Female,71833.88,High School,Nurse,Miami,538,116408.73,15.4,Single,Rejected,2563.29,2015-06-04
+C000265,66,Female,90874.2,Master,Manager,Atlanta,687,140078.63,14.8,Single,Rejected,4122.07,2021-10-07
+C000266,47,Female,58550.65,High School,Designer,Austin,656,80886.89,10.3,Married,Rejected,1875.87,2015-06-21
+C000267,41,Non-binary,52450.79,High School,Sales,Boston,491,70837.67,10.4,Married,Rejected,1306.99,2020-12-30
+C000268,36,Female,46870.21,High School,Technician,Austin,554,35636.95,4.8,Single,Rejected,2391.99,2019-01-30
+C000269,49,Female,75118.79,High School,Technician,Seattle,592,101487.53,19.2,Married,Rejected,3199.79,2023-12-26
+C000270,48,Male,70007.17,Bachelor,Sales,Boston,599,42136.91,14.2,Married,Rejected,3765.51,2021-03-24
+C000271,34,Male,51822.92,High School,Teacher,Atlanta,563,107478.62,9.5,Divorced,Rejected,2413.77,2019-04-12
+C000272,22,Male,43529.9,Bachelor,Nurse,Phoenix,592,26059.04,3.1,Divorced,Rejected,1705.18,2021-04-19
+C000273,27,Male,49009.69,Bachelor,Teacher,Atlanta,580,59791.89,8.1,Married,Rejected,1564.65,2016-01-21
+C000274,65,Male,93634.39,Master,Nurse,Phoenix,603,46908.1,16.7,Married,Approved,4886.15,2016-08-17
+C000275,40,Male,39066.95,High School,Sales,Atlanta,534,71744.73,1.2,Married,Rejected,1458.13,2019-06-28
+C000276,43,Male,72242.97,Master,Teacher,Austin,618,56529.35,8.4,Married,Rejected,2332.72,2022-09-19
+C000277,42,Male,63807.27,Bachelor,Teacher,Austin,557,132231.47,10.8,Married,Rejected,3235.4,2022-05-17
+C000278,57,Female,66541.52,High School,Manager,Phoenix,545,38245.55,16.0,Single,Rejected,3145.78,2018-05-23
+C000279,23,Female,50344.66,Master,Nurse,Austin,640,95420.17,2.0,Married,Rejected,2331.12,2017-07-20
+C000280,24,Female,53671.47,Master,Teacher,Chicago,569,86748.36,5.4,Divorced,Rejected,1125.63,2023-09-03
+C000281,33,Female,34978.01,High School,Technician,Austin,555,32338.94,6.5,Single,Rejected,698.15,2020-02-01
+C000282,43,Male,76405.17,Master,Technician,Seattle,603,64494.62,11.9,Married,Rejected,3297.83,2016-01-24
+C000283,51,Female,68952.12,Bachelor,Manager,Atlanta,610,76402.57,10.4,Divorced,Rejected,3619.02,2017-01-08
+C000284,43,Female,64574.33,Bachelor,Manager,Denver,637,123226.23,6.6,Single,Rejected,2539.33,2022-07-10
+C000285,41,Female,79732.95,Doctorate,Designer,Chicago,653,156701.26,13.3,Married,Rejected,1963.85,2023-01-29
+C000286,64,Male,96055.02,Bachelor,Sales,Miami,580,76650.48,18.8,Divorced,Rejected,2924.15,2023-03-03
+C000287,28,Female,51909.67,Master,Engineer,Austin,530,57145.36,1.6,Divorced,Rejected,2440.29,2015-01-23
+C000288,47,Male,58891.9,Bachelor,Manager,Austin,574,53222.69,9.6,Single,Rejected,2982.07,2022-05-26
+C000289,45,Male,64559.99,Master,Engineer,Seattle,590,45740.29,8.7,Single,Rejected,1116.49,2016-01-03
+C000290,42,Female,48095.4,Bachelor,Engineer,Phoenix,521,76902.81,7.3,Married,Rejected,1155.35,2022-04-11
+C000291,58,Male,74642.7,High School,Manager,Chicago,614,81209.83,12.4,Single,Rejected,2550.07,2022-12-05
+C000292,33,Female,56762.53,Bachelor,Designer,Boston,526,50129.99,1.3,Single,Rejected,1424.37,2018-04-01
+C000293,64,Female,86645.63,Bachelor,Engineer,Austin,670,170882.18,17.9,Single,Approved,3750.01,2016-09-28
+C000294,36,Male,39527.19,High School,Technician,Boston,613,70047.74,5.1,Single,Rejected,1236.71,2021-06-01
+C000295,46,Male,72677.3,High School,Designer,Austin,588,131937.92,14.0,Married,Rejected,3437.77,2015-08-13
+C000296,44,Female,62414.56,Bachelor,Manager,Boston,608,35366.15,10.9,Married,Rejected,3506.47,2020-03-18
+C000297,60,Male,70102.8,High School,Analyst,Denver,564,144111.85,17.5,Married,Approved,4333.24,2017-12-25
+C000298,41,Female,59109.3,High School,Technician,Phoenix,587,87307.7,6.7,Married,Rejected,3413.4,2018-10-26
+C000299,34,Male,66252.26,Master,Teacher,Seattle,576,89868.86,5.5,Single,Rejected,2174.31,2022-06-05
+C000300,21,Male,56604.13,Bachelor,Manager,Denver,531,29320.66,1.4,Single,Rejected,868.74,2023-12-07
+C000301,37,Male,69351.11,Master,Analyst,Seattle,595,140507.14,9.1,Single,Rejected,2397.08,2018-08-14
+C000302,59,Male,75579.82,Bachelor,Designer,Austin,598,107672.06,16.1,Single,Rejected,3483.32,2017-08-12
+C000303,21,Female,48703.27,Master,Teacher,Denver,569,92670.67,3.0,Single,Rejected,1283.02,2022-07-04
+C000304,62,Male,69449.37,Bachelor,Nurse,Atlanta,645,112116.88,17.7,Single,Rejected,2564.0,2018-09-19
+C000305,45,Male,57053.09,High School,Teacher,Seattle,561,105798.07,12.7,Single,Rejected,2079.97,2016-10-18
+C000306,27,Male,44281.95,High School,Manager,Seattle,603,74304.41,1.6,Single,Approved,1640.79,2023-02-13
+C000307,34,Female,51678.13,Bachelor,Nurse,Phoenix,515,106748.33,0.8,Married,Rejected,2539.12,2023-12-02
+C000308,46,Female,58217.69,High School,Technician,Austin,634,51425.03,11.7,Married,Rejected,3175.83,2017-08-07
+C000309,35,Female,50830.01,Bachelor,Analyst,Chicago,550,42878.68,8.3,Divorced,Rejected,2225.91,2016-06-03
+C000310,25,Female,65427.84,Doctorate,Nurse,Denver,600,111968.02,3.7,Married,Rejected,3475.78,2016-05-16
+C000311,51,Female,70105.84,High School,Designer,Chicago,579,94809.11,14.2,Married,Rejected,1799.75,2020-05-20
+C000312,51,Female,63732.42,High School,Designer,Seattle,573,96782.4,12.0,Single,Rejected,1769.8,2017-10-15
+C000313,26,Male,61377.11,Doctorate,Teacher,Austin,611,104618.65,0.3,Married,Approved,2401.67,2020-08-08
+C000314,33,Female,49565.58,Bachelor,Nurse,Austin,626,70909.91,7.0,Single,Rejected,2178.03,2021-10-30
+C000315,32,Male,50477.55,High School,Nurse,Phoenix,603,92832.19,6.2,Married,Approved,2205.21,2015-01-19
+C000316,51,Male,56862.0,Master,Sales,Austin,591,59254.44,11.4,Single,Rejected,1452.17,2022-09-25
+C000317,54,Male,88272.16,Master,Sales,Phoenix,642,173038.49,17.4,Married,Rejected,5081.1,2015-04-06
+C000318,54,Male,87296.66,Bachelor,Analyst,Miami,579,59627.97,11.8,Single,Rejected,3159.45,2016-01-11
+C000319,64,Male,71630.93,Bachelor,Manager,Chicago,581,113019.77,16.8,Married,Rejected,2729.66,2021-07-09
+C000320,56,Male,70953.49,High School,Teacher,Seattle,576,142845.35,19.7,Married,Rejected,3488.02,2020-08-04
+C000321,35,Male,49227.01,High School,Engineer,Phoenix,558,45760.45,8.7,Married,Rejected,2795.06,2023-10-20
+C000322,25,Male,40810.3,Bachelor,Manager,Miami,565,43080.13,1.1,Married,Rejected,2160.33,2020-02-07
+C000323,49,Male,67838.03,High School,Technician,Austin,529,69143.98,13.0,Married,Rejected,3712.27,2018-10-02
+C000324,63,Male,86003.03,Bachelor,Nurse,Miami,623,125499.78,18.5,Single,Rejected,2348.39,2021-01-06
+C000325,65,Male,84644.69,Master,Designer,Miami,658,101732.94,11.2,Married,Rejected,3677.12,2021-11-08
+C000326,31,Female,44560.52,High School,Nurse,Denver,584,30458.49,2.1,Married,Rejected,2395.7,2021-01-13
+C000327,31,Male,50862.03,Bachelor,Sales,Austin,552,102496.58,4.5,Single,Approved,2352.51,2018-05-02
+C000328,22,Male,53229.12,High School,Teacher,Boston,502,45135.65,0.0,Single,Rejected,1840.49,2023-08-18
+C000329,27,Male,57302.02,Master,Teacher,Austin,598,80677.58,3.6,Divorced,Rejected,3320.29,2017-09-17
+C000330,46,Male,62248.39,High School,Nurse,Atlanta,518,94067.8,14.1,Married,Rejected,1735.37,2018-02-12
+C000331,46,Female,53485.6,Bachelor,Sales,Austin,622,30448.18,10.0,Married,Rejected,2157.0,2017-07-01
+C000332,38,Non-binary,50725.85,Bachelor,Manager,Boston,562,33616.58,4.6,Married,Rejected,2722.06,2017-09-11
+C000333,35,Female,63409.46,Bachelor,Nurse,Denver,643,136449.07,7.2,Single,Rejected,3477.17,2016-11-30
+C000334,59,Female,68698.08,Bachelor,Designer,Austin,553,111955.26,15.5,Married,Rejected,3830.3,2020-03-24
+C000335,42,Female,55699.51,Master,Sales,Austin,626,31028.01,8.8,Single,Rejected,3003.88,2021-07-21
+C000336,58,Female,76721.69,Bachelor,Analyst,Denver,607,141945.77,15.1,Married,Rejected,2145.46,2018-11-11
+C000337,65,Female,109322.41,Master,Technician,Atlanta,658,149172.92,25.2,Married,Approved,6294.18,2023-04-20
+C000338,35,Female,64606.71,Doctorate,Sales,Austin,540,40562.63,0.0,Single,Rejected,2388.61,2019-04-06
+C000339,30,Male,46450.39,Bachelor,Nurse,Phoenix,584,76981.23,3.1,Married,Rejected,2416.17,2019-03-15
+C000340,64,Male,71303.43,Bachelor,Nurse,Atlanta,640,96181.06,18.5,Single,Rejected,2589.23,2015-08-16
+C000341,50,Female,61435.01,High School,Engineer,Seattle,635,52119.23,10.4,Married,Rejected,3521.96,2023-02-16
+C000342,34,Male,69697.7,Master,Sales,Miami,635,138844.37,8.4,Married,Rejected,3350.74,2016-05-01
+C000343,49,Female,59787.28,Bachelor,Sales,Boston,585,59509.02,14.5,Married,Rejected,3258.72,2016-06-24
+C000344,44,Male,70930.01,Bachelor,Nurse,Boston,562,69777.13,9.9,Married,Rejected,1889.25,2023-05-31
+C000345,62,Female,76995.56,High School,Engineer,,559,74201.78,16.9,Divorced,Rejected,2730.91,2019-09-03
+C000346,32,Male,67391.88,Master,Nurse,Boston,637,121620.43,4.7,Married,Rejected,2730.37,2015-08-13
+C000347,66,Female,88804.83,Bachelor,Nurse,Atlanta,601,151003.89,19.0,Married,Rejected,2029.28,2018-12-22
+C000348,64,Male,87381.6,Bachelor,Nurse,Miami,671,177851.94,18.3,Married,Rejected,4430.9,2020-04-22
+C000349,29,Female,43209.01,High School,Engineer,Chicago,569,38450.69,3.3,Single,Rejected,1603.67,2015-02-03
+C000350,28,Male,71465.3,Doctorate,Sales,Boston,613,131268.88,4.1,Single,Rejected,3363.84,2021-10-14
+C000351,45,Female,46908.87,High School,Teacher,Seattle,572,69152.0,12.6,Married,Rejected,1095.72,2021-01-05
+C000352,23,Male,23283.11,High School,Sales,Austin,556,23859.49,0.0,Single,Rejected,746.28,2015-02-08
+C000353,34,Male,54061.72,Master,Analyst,Denver,577,30289.27,2.9,Single,Rejected,2282.65,2020-07-24
+C000354,41,Male,62545.15,Master,Nurse,Phoenix,571,118348.61,3.9,Single,Rejected,2280.31,2017-01-01
+C000355,65,Male,81313.99,High School,Manager,Boston,642,73981.2,21.3,Married,Rejected,2533.39,2021-08-09
+C000356,66,Non-binary,88315.52,Bachelor,Manager,Seattle,625,139005.37,20.0,Single,Rejected,2852.34,2018-05-23
+C000357,27,Female,64446.89,Master,Technician,Boston,563,92357.25,4.4,Married,Rejected,1985.05,2016-10-26
+C000358,62,Female,92590.11,Master,Technician,Austin,641,46995.42,13.6,Married,Rejected,4229.82,2019-07-23
+C000359,25,Female,45229.5,Bachelor,Analyst,Austin,577,99069.97,7.0,Married,Rejected,1177.17,2018-12-26
+C000360,55,Female,74045.01,Bachelor,Engineer,Atlanta,618,139527.44,13.0,Single,Rejected,2854.74,2018-01-27
+C000361,59,Male,82030.27,Master,Technician,Atlanta,616,108854.26,16.9,Married,Rejected,4251.2,2022-11-25
+C000362,61,Non-binary,90591.13,Master,Manager,Miami,604,150071.48,19.6,Single,Rejected,3719.84,2020-11-01
+C000363,31,Non-binary,58199.39,Master,Sales,Phoenix,632,76253.44,1.9,Married,Rejected,2732.21,2019-05-21
+C000364,62,Male,57435.72,Bachelor,Manager,Seattle,654,101419.81,16.1,Single,Rejected,1946.36,2017-01-13
+C000365,26,Male,53779.1,High School,Engineer,Phoenix,585,39170.47,3.0,Divorced,Rejected,3095.52,2020-02-12
+C000366,44,Male,85498.77,Master,Teacher,Chicago,628,107625.56,18.1,Single,Rejected,3017.68,2015-03-25
+C000367,42,Male,67387.71,Master,Analyst,Phoenix,596,72132.69,10.1,Married,Rejected,2047.15,2022-12-16
+C000368,35,Female,81285.28,Master,Sales,Denver,660,104160.08,10.8,Single,Approved,4451.39,2015-01-06
+C000369,22,Male,35101.7,High School,Technician,Austin,542,44431.85,4.0,Married,Rejected,1277.42,2021-04-14
+C000370,56,Male,69121.89,High School,Engineer,Austin,579,51375.52,16.2,Married,Rejected,3422.32,2018-02-09
+C000371,36,Female,57854.05,Master,Manager,Miami,642,124966.52,4.0,Single,Rejected,3297.16,2021-06-20
+C000372,51,Female,76402.72,High School,Technician,Austin,602,40213.55,16.0,Single,Rejected,1941.33,2018-04-03
+C000373,39,Non-binary,70079.95,Doctorate,Engineer,Miami,654,36240.02,3.8,Single,Approved,3393.46,2015-03-27
+C000374,38,Non-binary,64162.59,Bachelor,Teacher,Boston,556,72814.93,12.0,Single,Rejected,2763.59,2023-07-14
+C000375,61,Male,88940.6,Bachelor,Technician,Denver,640,138270.6,17.8,Divorced,Rejected,3248.85,2021-11-21
+C000376,25,Male,54803.41,Master,Technician,Phoenix,637,44139.24,0.0,Single,Rejected,2148.56,2015-05-28
+C000377,54,Female,72058.64,Bachelor,Teacher,Denver,604,101345.42,13.3,Single,Rejected,1832.53,2015-04-18
+C000378,55,Female,83954.81,Bachelor,Engineer,Denver,610,145133.71,16.5,Divorced,Rejected,5011.38,2019-10-08
+C000379,38,Male,73515.74,Bachelor,Nurse,Atlanta,549,48513.26,6.9,Single,Rejected,2011.52,2023-08-09
+C000380,33,Male,57357.59,Bachelor,Sales,Seattle,618,124667.75,7.5,Single,Rejected,1893.91,2020-03-13
+C000381,21,Male,,Bachelor,Teacher,Seattle,530,44331.51,0.0,Married,Rejected,2230.77,2015-02-05
+C000382,64,Male,80116.98,Bachelor,Designer,Denver,606,127554.73,14.8,Divorced,Rejected,3893.28,2021-04-16
+C000383,64,Female,108673.74,Doctorate,Nurse,,617,74791.85,18.3,Married,Approved,3052.12,2018-11-06
+C000384,32,Male,48119.28,Bachelor,Nurse,,621,82097.59,5.1,Married,Rejected,2814.47,2020-09-29
+C000385,22,Female,30750.94,High School,Analyst,Denver,575,59311.66,0.0,Divorced,Rejected,1301.09,2018-02-24
+C000386,26,Female,40134.32,Bachelor,Designer,Atlanta,572,27250.59,6.0,Single,Rejected,2381.47,2015-01-27
+C000387,24,Female,34324.86,Bachelor,Teacher,Chicago,514,24506.83,0.0,Divorced,Rejected,787.42,2015-03-02
+C000388,59,Female,67662.54,High School,Designer,Boston,651,66159.12,17.3,Married,Rejected,1938.25,2020-09-06
+C000389,62,Male,72792.79,High School,Nurse,Denver,593,37873.42,17.8,Divorced,Rejected,3447.92,2020-09-17
+C000390,28,Female,55439.04,Bachelor,Manager,Boston,522,120651.28,0.0,Single,Rejected,1676.8,2017-11-25
+C000391,55,Female,73592.01,Bachelor,Teacher,Phoenix,539,111657.7,11.0,Single,Rejected,3157.35,2015-09-28
+C000392,29,Male,60067.51,Doctorate,Teacher,Chicago,576,92077.61,3.8,Married,Rejected,1341.66,2021-12-13
+C000393,37,Male,50252.96,High School,Manager,Seattle,539,107050.65,12.7,Married,Rejected,2609.37,2016-05-11
+C000394,48,Female,70034.21,High School,Manager,Atlanta,573,134076.98,13.4,Married,Rejected,3864.39,2016-09-10
+C000395,54,Female,83580.83,Master,Sales,Atlanta,630,157484.09,9.4,Divorced,Rejected,4693.8,2019-01-25
+C000396,61,Female,78675.73,Master,Analyst,Austin,587,84745.88,8.5,Married,Rejected,4563.85,2021-06-10
+C000397,23,Male,34138.64,High School,Designer,Atlanta,562,36503.35,3.3,Single,Rejected,1657.65,2023-12-13
+C000398,30,Female,48428.79,High School,Nurse,Denver,533,48232.87,3.9,Single,Rejected,1616.16,2020-08-16
+C000399,33,Female,41770.03,High School,Designer,Atlanta,571,45503.55,8.7,Single,Rejected,1273.92,2023-08-21
+C000400,35,Female,54448.99,Bachelor,Manager,Miami,630,61427.43,3.8,Single,Rejected,3170.91,2020-11-12
+C000401,66,Male,101313.0,Bachelor,Manager,Atlanta,625,74769.63,20.3,Single,Approved,5600.1,2022-08-17
+C000402,56,Female,71201.95,High School,Technician,Phoenix,617,78686.09,17.5,Married,Rejected,4255.21,2016-07-31
+C000403,35,Male,39815.06,High School,Technician,Seattle,505,50145.87,5.0,Married,Rejected,2075.26,2015-07-05
+C000404,65,Female,85615.75,Bachelor,Sales,,669,87832.38,17.7,Married,Approved,2620.15,2021-01-07
+C000405,43,Male,76761.83,Doctorate,Analyst,Phoenix,605,59957.88,9.7,Single,Rejected,4529.69,2023-10-09
+C000406,44,Female,56477.64,Bachelor,Nurse,Miami,628,64090.69,11.6,Married,Rejected,3307.69,2021-08-17
+C000407,40,Female,64288.57,Bachelor,Technician,Boston,583,84702.97,8.4,Married,Rejected,2582.55,2018-02-01
+C000408,27,Female,49026.55,High School,Manager,Boston,583,84582.48,5.7,Divorced,Rejected,2626.78,2019-05-27
+C000409,63,Male,70339.0,High School,Sales,Atlanta,621,120216.69,16.8,Married,Approved,3165.09,2016-01-04
+C000410,21,Male,29627.97,High School,Technician,Miami,523,25023.24,0.0,Married,Rejected,2012.23,2018-01-23
+C000411,29,Female,57848.46,Master,Analyst,Phoenix,638,32529.01,9.3,Married,Rejected,1852.61,2021-02-21
+C000412,31,Female,56417.85,Master,Nurse,Chicago,555,57346.44,2.9,Married,Rejected,2858.29,2016-07-01
+C000413,33,Male,55826.64,Master,Sales,Austin,607,42826.39,3.9,Married,Rejected,1353.29,2019-05-02
+C000414,27,Male,57195.19,Doctorate,Designer,Austin,580,67080.83,2.8,Single,Rejected,1763.81,2017-08-10
+C000415,21,Female,70608.83,Doctorate,Engineer,,603,152860.23,0.6,Single,Rejected,2271.48,2019-06-01
+C000416,52,Female,90320.95,Doctorate,Teacher,Austin,617,72963.19,12.4,Single,Rejected,3876.59,2021-11-14
+C000417,65,Male,79541.99,High School,Engineer,Denver,612,82889.57,18.9,Married,Rejected,2596.44,2022-12-16
+C000418,26,Male,43112.5,High School,Teacher,Austin,515,74700.78,2.4,Married,Rejected,2540.88,2018-09-06
+C000419,34,Male,59475.13,Bachelor,Sales,Miami,588,81219.87,6.4,Married,Rejected,2856.01,2022-06-10
+C000420,44,Male,53109.63,Bachelor,Technician,Austin,566,30520.93,3.5,Married,Rejected,3205.46,2021-04-27
+C000421,63,Male,82003.34,High School,Manager,,610,63542.17,23.3,Single,Approved,2957.92,2023-04-17
+C000422,52,Female,77844.41,Master,Designer,Seattle,615,162688.93,13.0,Married,Rejected,1972.72,2021-08-28
+C000423,56,Male,80324.91,Bachelor,Analyst,Denver,622,54249.87,16.7,Single,Rejected,4095.88,2019-12-15
+C000424,47,Female,64258.57,Bachelor,Teacher,Boston,562,101506.55,7.5,Divorced,Rejected,3292.35,2021-01-23
+C000425,40,Female,47210.15,High School,Engineer,Miami,560,87194.95,7.1,Single,Rejected,2192.72,2017-11-09
+C000426,30,Female,30540.58,High School,Teacher,Phoenix,511,29051.61,2.3,Married,Rejected,1591.34,2021-01-21
+C000427,60,Female,76848.81,High School,Manager,Miami,693,133150.76,20.9,Married,Rejected,4097.1,2021-05-17
+C000428,57,Male,81711.91,Master,Teacher,Atlanta,654,64456.14,13.9,Married,Rejected,3872.03,2020-06-29
+C000429,22,Female,32327.73,Bachelor,Analyst,Boston,569,31812.93,3.0,Single,Rejected,2198.82,2015-12-05
+C000430,53,Female,82186.39,Master,Manager,Denver,653,84659.99,12.0,Divorced,Rejected,3951.64,2019-08-31
+C000431,24,Male,40289.92,High School,Designer,Phoenix,479,88393.66,0.4,Married,Rejected,1892.64,2021-05-24
+C000432,54,Male,89165.27,Bachelor,Teacher,Boston,529,77107.71,13.6,Married,Rejected,3325.32,2016-10-11
+C000433,58,Male,79262.94,Bachelor,Engineer,Seattle,614,57041.78,19.6,Married,Rejected,1943.62,2022-01-30
+C000434,27,Male,48458.37,Master,Sales,Seattle,523,100486.94,0.0,Single,Approved,1464.78,2022-07-31
+C000435,40,Male,56648.13,Master,Sales,Atlanta,576,43918.29,4.7,Married,Rejected,3247.56,2019-11-05
+C000436,26,Female,35836.17,High School,Designer,Austin,545,71485.13,0.0,Single,Rejected,1844.92,2023-09-03
+C000437,47,Male,81329.06,Doctorate,Nurse,Phoenix,645,130596.28,8.3,Single,Rejected,2980.46,2022-09-18
+C000438,63,Male,65911.6,High School,Analyst,Seattle,558,97592.97,15.8,Married,Rejected,3366.42,2019-03-13
+C000439,24,Female,49382.96,Master,Nurse,Austin,581,87767.13,0.0,Married,Rejected,1425.05,2022-12-15
+C000440,39,Female,34967.94,High School,Sales,Seattle,555,60641.33,5.9,Single,Rejected,1138.01,2023-05-24
+C000441,65,Female,75132.01,High School,Sales,Phoenix,600,51682.9,13.3,Single,Rejected,4137.44,2015-12-22
+C000442,34,Female,53946.14,Master,Sales,Seattle,561,118632.55,3.0,Single,Rejected,2045.0,2023-12-23
+C000443,27,Female,42296.15,High School,Designer,Atlanta,607,88873.19,6.3,Single,Rejected,1098.84,2015-01-17
+C000444,43,Female,54814.55,Bachelor,Manager,Phoenix,587,110955.96,10.8,Married,Rejected,2392.64,2019-05-17
+C000445,44,Male,60560.59,Bachelor,Engineer,Austin,649,94346.83,10.6,Single,Rejected,2348.07,2023-06-09
+C000446,51,Male,56917.32,High School,Engineer,Phoenix,550,79043.66,10.2,Divorced,Rejected,2800.7,2021-07-07
+C000447,35,Female,49625.36,Bachelor,Technician,Seattle,584,70054.82,2.0,Single,Rejected,2890.51,2017-05-26
+C000448,64,Male,91186.7,Master,Nurse,Boston,625,47908.83,15.3,Single,Rejected,4243.23,2020-10-15
+C000449,44,Female,81424.8,Master,Nurse,Denver,600,109850.05,10.0,Married,Rejected,3460.38,2016-12-06
+C000450,34,Male,61555.7,Bachelor,Teacher,Denver,608,96052.02,8.3,Single,Rejected,2296.5,2017-02-18
+C000451,65,Male,93666.02,Bachelor,Engineer,Phoenix,627,151720.28,21.4,Married,Approved,4250.63,2023-03-14
+C000452,63,Female,85430.53,High School,Technician,Phoenix,531,90952.52,19.8,Divorced,Rejected,2672.85,2015-06-04
+C000453,43,Male,55456.91,High School,Manager,Miami,470,72159.42,7.6,Divorced,Rejected,1419.5,2023-08-27
+C000454,22,Non-binary,33411.89,High School,Manager,Boston,583,52848.52,0.9,Married,Rejected,1539.34,2019-01-29
+C000455,48,Male,90131.52,Doctorate,Engineer,Chicago,667,110692.26,10.9,Single,Rejected,3501.14,2015-08-01
+C000456,46,Non-binary,80482.56,Master,Teacher,Denver,671,171880.96,10.4,Married,Rejected,3120.68,2022-01-29
+C000457,27,Male,66548.43,Master,Teacher,,604,113082.52,8.6,Divorced,Rejected,2014.17,2015-06-08
+C000458,50,Female,54244.6,Bachelor,Nurse,Boston,536,27239.76,7.7,Divorced,Rejected,2722.41,2017-12-04
+C000459,59,Male,72217.99,Bachelor,Sales,Seattle,597,38967.03,15.7,Single,Rejected,1839.1,2017-03-01
+C000460,25,Male,47304.92,Bachelor,Designer,Chicago,575,79165.28,5.5,Single,Rejected,1840.01,2022-01-20
+C000461,54,Male,73698.14,Bachelor,Designer,Denver,561,88548.07,10.2,Single,Rejected,3915.78,2018-07-27
+C000462,27,Female,44686.26,Bachelor,Analyst,Chicago,611,86114.91,1.1,Single,Rejected,1521.93,2020-11-21
+C000463,55,Male,71652.08,High School,Technician,Denver,662,56900.79,13.2,Married,Rejected,4212.89,2015-08-26
+C000464,40,Female,59078.78,High School,Engineer,Austin,586,30928.08,7.8,Single,Rejected,1473.46,2021-04-03
+C000465,21,Male,65374.61,Doctorate,Teacher,Denver,588,75817.55,0.0,Single,Rejected,3053.35,2021-05-24
+C000466,65,Female,94216.17,Bachelor,Sales,Atlanta,593,165001.63,20.6,Single,Rejected,5473.43,2017-07-27
+C000467,28,Male,60470.26,Doctorate,Analyst,Seattle,652,130128.21,5.2,Married,Approved,2774.0,2022-12-04
+C000468,48,Male,63997.27,High School,Engineer,Austin,592,128136.08,13.2,Single,Rejected,3350.71,2019-03-25
+C000469,29,Male,42082.61,Bachelor,Sales,Atlanta,548,55672.21,1.3,Married,Rejected,1787.19,2020-12-31
+C000470,63,Male,63483.75,High School,Engineer,Denver,618,119463.04,18.3,Single,Rejected,3202.61,2016-08-19
+C000471,54,Female,60165.32,High School,Sales,Austin,562,37276.13,11.8,Divorced,Rejected,2971.97,2023-05-23
+C000472,58,Non-binary,76485.27,High School,Nurse,Denver,602,112652.32,15.0,Single,Rejected,3826.7,2017-03-21
+C000473,40,Male,61510.48,High School,Manager,Chicago,549,127407.1,14.4,Married,Rejected,3810.83,2020-08-18
+C000474,42,Female,83685.3,Master,Teacher,Miami,645,98234.38,9.5,Single,Rejected,3981.0,2015-10-23
+C000475,50,Female,66781.91,Bachelor,Analyst,Denver,585,142390.45,9.3,Single,Rejected,3054.79,2015-05-27
+C000476,57,Female,93024.64,Bachelor,Sales,Seattle,657,81411.88,16.0,Single,Approved,2995.52,2016-02-21
+C000477,59,Female,75087.85,Bachelor,Engineer,Denver,594,51028.01,12.6,Single,Rejected,3611.26,2023-06-25
+C000478,21,Male,40726.12,Bachelor,Technician,Seattle,550,56694.67,0.0,Single,Rejected,2615.37,2016-11-22
+C000479,51,Male,58789.79,Bachelor,Analyst,Boston,549,120067.55,10.1,Married,Rejected,2509.97,2022-11-29
+C000480,26,Female,43229.78,High School,Sales,Seattle,570,44490.99,1.3,Married,Rejected,1171.47,2020-03-21
+C000481,34,Male,70760.4,Doctorate,Designer,Boston,588,131633.63,8.5,Single,Rejected,3232.45,2015-10-19
+C000482,59,Female,84713.61,Master,Analyst,Miami,620,66723.43,18.0,Married,Rejected,4247.11,2018-12-20
+C000483,32,Male,70493.26,Master,Engineer,Miami,597,124594.7,6.5,Married,Rejected,3860.15,2019-04-24
+C000484,57,Female,80344.06,Bachelor,Manager,Atlanta,607,116253.5,12.5,Single,Approved,2611.05,2017-05-26
+C000485,42,Male,58787.52,High School,Sales,Boston,515,46884.74,7.7,Single,Rejected,1729.52,2020-06-07
+C000486,31,Male,,Doctorate,Teacher,Miami,597,114401.68,5.4,Single,Rejected,2489.21,2022-09-29
+C000487,36,Female,53401.5,Bachelor,Teacher,Phoenix,597,91497.35,5.0,Single,Rejected,1285.75,2022-12-13
+C000488,45,Male,54875.64,High School,Manager,Seattle,562,75522.04,9.7,Married,Rejected,3621.69,2019-09-22
+C000489,56,Non-binary,82093.33,Bachelor,Manager,Denver,610,72512.63,16.4,Divorced,Rejected,3188.3,2023-01-14
+C000490,48,Female,85078.29,Master,Engineer,Austin,619,61673.22,10.8,Divorced,Approved,3901.3,2023-04-21
+C000491,63,Female,85564.51,Bachelor,Nurse,Miami,621,182024.26,18.7,Divorced,Rejected,2869.82,2015-10-17
+C000492,60,Male,106148.36,Master,Manager,Atlanta,622,171417.0,21.3,Married,Approved,4131.08,2020-09-16
+C000493,55,Female,88294.32,Master,Teacher,Seattle,623,165614.58,14.2,Single,Rejected,5155.78,2021-12-15
+C000494,48,Female,61588.38,High School,Teacher,Seattle,627,103767.17,15.1,Single,Rejected,2800.97,2015-02-21
+C000495,34,Male,78142.11,Doctorate,Manager,Seattle,581,149259.65,7.4,Single,Rejected,2111.85,2020-06-05
+C000496,39,Male,64954.68,Bachelor,Teacher,Phoenix,560,50420.06,3.9,Single,Rejected,1755.39,2023-03-20
+C000497,26,Female,55968.88,Bachelor,Manager,Atlanta,514,75267.81,0.0,Single,Rejected,3412.88,2017-05-31
+C000498,38,Female,54225.91,High School,Nurse,Miami,591,88611.22,5.2,Married,Rejected,3210.0,2022-09-17
+C000499,63,Male,96706.64,Doctorate,Designer,Seattle,640,65350.75,15.7,Single,Approved,2816.88,2023-05-26
+C000500,40,Male,49568.12,High School,Analyst,Chicago,541,37420.3,8.1,Single,Rejected,2321.94,2020-09-17
+C000501,26,Male,43313.66,High School,Designer,Austin,559,68339.0,4.2,Married,Rejected,889.87,2020-08-29
+C000502,50,Female,84718.17,Bachelor,Teacher,Miami,581,167470.86,16.1,Single,Approved,3686.52,2019-10-23
+C000503,65,Male,79734.97,High School,Analyst,Atlanta,580,129386.53,19.8,Married,Rejected,2084.9,2018-09-05
+C000504,60,Male,72416.97,High School,Technician,Atlanta,551,40665.62,15.6,Single,Approved,3773.55,2019-01-27
+C000505,33,Female,46674.09,Bachelor,Sales,Chicago,519,100336.96,0.0,Married,Rejected,2684.17,2019-09-13
+C000506,41,Male,58869.89,Bachelor,Manager,Seattle,630,43396.63,9.0,Single,Approved,1564.23,2019-05-03
+C000507,45,Male,80732.71,Doctorate,Analyst,Miami,600,72284.5,10.6,Married,Rejected,3536.66,2022-06-06
+C000508,32,Female,53402.91,Bachelor,Analyst,Chicago,590,115213.81,5.6,Single,Rejected,1534.67,2021-12-01
+C000509,33,Female,79636.62,Master,Sales,Boston,591,144202.49,11.4,Single,Approved,3171.5,2018-02-15
+C000510,31,Male,53534.26,Bachelor,Designer,Austin,609,112003.34,8.1,Married,Rejected,1348.1,2019-08-13
+C000511,66,Female,88343.78,Bachelor,Nurse,Seattle,602,165313.61,21.5,Single,Rejected,2819.51,2016-12-08
+C000512,55,Female,65682.47,Bachelor,Manager,Phoenix,597,105614.03,12.0,Single,Rejected,4233.92,2016-08-01
+C000513,59,Female,81410.44,Bachelor,Designer,Austin,613,80086.71,14.9,Divorced,Approved,1928.67,2018-04-26
+C000514,58,Female,103056.74,Doctorate,Manager,Austin,721,108796.84,15.7,Single,Rejected,5618.39,2015-07-11
+C000515,65,Female,92333.87,Bachelor,Sales,Phoenix,640,194857.78,16.7,Married,Rejected,2546.29,2022-09-08
+C000516,25,Male,39523.43,High School,Technician,Seattle,534,77587.01,3.5,Married,Rejected,1466.04,2016-02-19
+C000517,61,Female,85376.52,Bachelor,Sales,Seattle,646,94864.73,18.2,Single,Approved,3535.5,2017-12-08
+C000518,24,Female,49521.92,Master,Technician,Atlanta,637,56185.33,0.0,Married,Rejected,2952.03,2017-04-05
+C000519,42,Male,60701.43,High School,Sales,Denver,536,61070.52,12.6,Single,Rejected,2087.87,2016-11-10
+C000520,48,Female,70036.54,Bachelor,Sales,Austin,573,73848.01,12.0,Married,Approved,2255.82,2018-04-23
+C000521,37,Male,59897.04,Master,Nurse,Austin,569,117585.96,2.3,Single,Rejected,3275.94,2021-06-20
+C000522,27,Female,56210.89,Master,Technician,Austin,567,29109.46,2.8,Single,Rejected,2787.47,2023-01-10
+C000523,29,Female,69838.35,Doctorate,Manager,Denver,593,86689.61,4.6,Single,Rejected,3264.7,2016-09-11
+C000524,58,Female,78848.59,Bachelor,Designer,Boston,582,165804.98,18.7,Divorced,Approved,2295.13,2017-02-24
+C000525,35,Female,52149.85,Bachelor,Sales,Seattle,618,74182.21,5.4,Married,Rejected,1439.11,2019-03-23
+C000526,35,Female,68739.73,Bachelor,Analyst,Austin,546,87007.85,8.6,Divorced,Rejected,3464.07,2017-11-15
+C000527,63,Male,117659.35,Doctorate,Sales,Austin,655,121310.16,18.6,Married,Rejected,5439.32,2022-03-12
+C000528,27,Female,35631.61,Bachelor,Engineer,Chicago,584,22292.97,0.0,Married,Rejected,1910.67,2017-01-02
+C000529,63,Male,77970.48,Master,Analyst,Phoenix,617,68740.88,14.1,Married,Rejected,2699.43,2018-08-14
+C000530,63,Male,79962.31,Bachelor,Analyst,Seattle,600,52277.7,21.2,Divorced,Rejected,2808.48,2019-11-28
+C000531,48,Female,70999.13,Bachelor,Sales,Austin,568,50792.0,15.1,Married,Approved,3761.57,2018-06-07
+C000532,28,Male,54879.55,Bachelor,Designer,Denver,565,42695.09,4.3,Single,Rejected,2655.03,2020-07-20
+C000533,28,Female,56840.72,Bachelor,Sales,Chicago,561,57605.23,7.5,Married,Rejected,1253.38,2022-03-11
+C000534,34,Female,67044.41,Master,Nurse,Denver,610,34777.84,8.8,Married,Rejected,4010.0,2019-10-15
+C000535,47,Female,72403.07,Bachelor,Analyst,Miami,560,153150.21,13.3,Single,Rejected,2956.97,2019-02-09
+C000536,28,Male,40411.43,Bachelor,Technician,Phoenix,581,28712.02,0.8,Single,Rejected,1206.89,2023-07-24
+C000537,41,Male,64994.8,Bachelor,Analyst,Seattle,609,74831.97,13.7,Single,Rejected,2555.51,2023-10-31
+C000538,26,Female,47675.36,Bachelor,Manager,Miami,575,95121.72,4.0,Married,Rejected,2571.63,2023-12-14
+C000539,45,Male,53106.18,Bachelor,Manager,Seattle,631,36174.1,9.4,Single,Rejected,1943.22,2015-02-24
+C000540,21,Male,24531.48,High School,Designer,Denver,522,32433.74,0.0,Married,Rejected,1195.61,2022-07-13
+C000541,53,Female,57644.61,High School,Engineer,Miami,567,111607.59,14.6,Married,Rejected,2943.58,2023-01-31
+C000542,23,Male,46506.7,Bachelor,Teacher,Miami,538,67287.59,0.0,Married,Rejected,1379.54,2022-03-30
+C000543,29,Male,52901.71,Bachelor,Engineer,Seattle,570,45367.67,5.7,Single,Rejected,2868.9,2021-09-28
+C000544,29,Male,49723.9,Bachelor,Manager,Atlanta,556,87035.03,1.1,Divorced,Rejected,1911.28,2018-04-17
+C000545,59,Non-binary,59263.49,High School,Teacher,Denver,572,98275.44,17.4,Married,Rejected,2404.47,2021-07-12
+C000546,23,Female,31896.82,Bachelor,Designer,Boston,485,35587.79,0.0,Single,Rejected,1722.13,2020-03-19
+C000547,40,Female,54702.45,High School,Teacher,Boston,551,31656.41,7.7,Single,Rejected,2553.64,2022-06-24
+C000548,48,Male,55547.43,Master,Analyst,Boston,609,28516.38,9.6,Single,Rejected,1982.19,2018-02-28
+C000549,44,Female,79634.36,Master,Teacher,Atlanta,613,151557.56,9.6,Single,Rejected,3879.6,2021-09-05
+C000550,52,Female,57584.75,High School,Manager,Boston,643,60270.94,18.7,Married,Rejected,3249.66,2022-01-20
+C000551,57,Non-binary,86643.54,Bachelor,Sales,Atlanta,692,63614.45,19.4,Divorced,Approved,4477.23,2022-07-02
+C000552,39,Female,45711.25,High School,Engineer,Phoenix,594,63151.79,9.0,Married,Rejected,2395.08,2016-07-18
+C000553,59,Female,76708.89,High School,Technician,Denver,646,158435.81,16.3,Married,Rejected,2392.44,2022-10-08
+C000554,35,Male,70049.56,High School,Technician,Chicago,604,36034.72,8.7,Married,Approved,2871.71,2016-12-12
+C000555,66,Female,65885.05,High School,Sales,Chicago,672,39230.86,22.5,Married,Approved,2619.97,2023-06-06
+C000556,44,Male,65447.76,Bachelor,Sales,Atlanta,643,79124.8,7.8,Married,Approved,1454.33,2015-05-08
+C000557,54,Non-binary,70042.75,Master,Analyst,Denver,647,115510.44,14.1,Single,Rejected,3552.16,2017-01-04
+C000558,61,Male,68596.22,High School,Engineer,Seattle,606,89817.88,12.1,Divorced,Approved,2704.63,2020-06-23
+C000559,57,Female,78937.6,Bachelor,Sales,Miami,617,159914.35,18.7,Single,Approved,2849.59,2019-11-20
+C000560,60,Female,87242.07,Bachelor,Teacher,Austin,639,50159.28,22.6,Married,Approved,2569.74,2021-03-11
+C000561,45,Male,76043.12,Doctorate,Nurse,Boston,612,81992.69,10.7,Divorced,Rejected,2807.71,2018-08-18
+C000562,22,Female,46133.52,Bachelor,Analyst,Boston,576,50621.91,0.0,Married,Rejected,1891.12,2015-01-12
+C000563,43,Male,46863.55,High School,Manager,Chicago,555,50529.04,11.4,Single,Approved,1921.45,2020-07-22
+C000564,29,Female,53988.9,Bachelor,Analyst,Austin,555,71754.82,1.2,Married,Rejected,1961.1,2019-08-05
+C000565,61,Female,75555.02,Bachelor,Analyst,Austin,534,139322.02,15.4,Single,Rejected,2458.36,2019-07-29
+C000566,31,Male,60911.81,Doctorate,Technician,Seattle,661,63372.67,6.4,Married,Approved,2084.35,2018-05-23
+C000567,31,Male,62146.39,Bachelor,Teacher,Austin,571,109727.0,5.3,Single,Rejected,3619.53,2023-01-04
+C000568,32,Non-binary,49830.23,Bachelor,Engineer,Austin,582,37322.41,3.7,Married,Rejected,1175.37,2022-02-15
+C000569,50,Female,71336.96,High School,Engineer,Denver,630,103669.17,10.8,Divorced,Rejected,3321.27,2016-08-18
+C000570,47,Male,75029.62,Bachelor,Teacher,Denver,610,85357.42,11.7,Single,Rejected,2781.77,2015-05-08
+C000571,64,Male,85332.25,Master,Manager,Phoenix,678,120886.64,17.3,Single,Rejected,3721.22,2016-08-18
+C000572,40,Female,55500.53,Bachelor,Technician,Boston,533,37916.55,5.3,Married,Rejected,3022.23,2015-06-09
+C000573,33,Female,52561.33,Bachelor,Teacher,Austin,648,111476.64,4.5,Single,Rejected,2636.29,2021-05-19
+C000574,23,Male,71114.0,Doctorate,Technician,Boston,632,145112.67,2.2,Single,Approved,4431.78,2020-07-30
+C000575,21,Female,51923.87,Master,Technician,Denver,577,98908.41,0.0,Single,Rejected,3042.26,2019-03-01
+C000576,38,Male,54208.51,Bachelor,Sales,Chicago,612,109378.19,3.6,Single,Rejected,1448.59,2020-04-27
+C000577,63,Non-binary,84436.04,Bachelor,Sales,Austin,594,63273.78,20.8,Married,Rejected,2872.15,2022-04-09
+C000578,45,Female,55168.97,Bachelor,Designer,Austin,553,74827.17,2.8,Married,Rejected,2076.33,2022-06-23
+C000579,62,Female,88408.06,Bachelor,Nurse,Denver,664,91983.78,16.4,Single,Rejected,3031.18,2018-11-28
+C000580,25,Female,42960.22,Bachelor,Nurse,Chicago,495,86288.01,0.4,Married,Rejected,1501.42,2020-04-29
+C000581,25,Female,34450.4,High School,Sales,Chicago,565,28319.75,2.5,Single,Rejected,1284.39,2020-03-10
+C000582,59,Female,85193.89,Master,Manager,Seattle,652,74451.54,18.0,Single,Rejected,2650.0,2023-07-16
+C000583,25,Male,62206.46,Doctorate,Technician,Atlanta,667,103723.95,5.3,Married,Rejected,2090.06,2021-11-06
+C000584,23,Female,40926.38,Master,Analyst,Boston,515,26648.37,0.0,Single,Rejected,1925.94,2017-10-29
+C000585,39,Male,72889.48,Doctorate,Nurse,Boston,671,127193.9,9.6,Married,Rejected,3605.38,2022-12-23
+C000586,63,Female,101309.68,Master,Technician,Atlanta,625,96833.45,18.6,Divorced,Rejected,5974.95,2018-07-31
+C000587,52,Female,72994.33,Master,Teacher,Atlanta,586,118512.88,8.6,Married,Rejected,1965.6,2021-10-25
+C000588,25,Female,63978.68,Master,Designer,Chicago,559,126944.2,7.0,Married,Rejected,2753.84,2023-10-17
+C000589,59,Male,57529.8,Bachelor,Manager,Denver,558,88385.29,12.4,Single,Approved,3558.04,2022-04-11
+C000590,59,Female,83579.53,Bachelor,Manager,Chicago,634,72008.98,17.6,Single,Rejected,4004.41,2015-12-20
+C000591,57,Female,68269.47,High School,Analyst,Austin,565,39840.79,16.6,Single,Rejected,3022.44,2016-11-06
+C000592,62,Male,79224.78,Bachelor,Sales,Miami,645,45621.09,18.4,Married,Approved,3480.91,2022-02-27
+C000593,32,Male,42922.46,High School,Sales,Seattle,531,27941.67,3.7,Married,Rejected,917.03,2016-02-10
+C000594,66,Female,76420.7,High School,Technician,Phoenix,580,113537.51,21.6,Single,Rejected,4344.55,2015-02-08
+C000595,35,Male,35811.98,Bachelor,Manager,Miami,538,39105.62,1.9,Single,Rejected,1417.44,2017-04-27
+C000596,57,Female,82281.43,Bachelor,Engineer,Chicago,624,75146.13,15.4,Single,Approved,3631.92,2019-05-18
+C000597,47,Female,57853.0,High School,Sales,Phoenix,566,50495.32,9.8,Married,Rejected,2283.99,2016-02-26
+C000598,56,Male,79707.65,Master,Technician,Chicago,618,168389.48,13.2,Married,Rejected,2804.0,2016-05-18
+C000599,49,Female,72296.39,Master,Manager,,639,50751.21,13.4,Married,Approved,2658.23,2018-01-18
+C000600,50,Female,55186.25,High School,Manager,Austin,628,56189.79,15.6,Divorced,Rejected,2826.73,2020-05-21
+C000601,49,Male,60437.96,High School,Engineer,Denver,571,78660.69,11.2,Single,Rejected,2576.78,2019-11-24
+C000602,56,Female,88634.45,Bachelor,Designer,Miami,590,44384.96,17.3,Married,Rejected,1816.39,2022-03-06
+C000603,54,Male,,Master,Analyst,Chicago,626,172569.59,14.4,Married,Rejected,3064.43,2023-10-27
+C000604,27,Male,43500.47,Master,Nurse,Seattle,582,29078.65,0.4,Single,Approved,2579.17,2015-04-19
+C000605,58,Male,69588.54,High School,Sales,Chicago,549,115530.9,15.2,Divorced,Rejected,2612.7,2021-03-11
+C000606,45,Male,71847.0,Master,Analyst,Seattle,577,112733.06,9.7,Single,Rejected,2377.32,2016-06-21
+C000607,35,Male,49635.51,High School,Nurse,Phoenix,534,93086.85,4.3,Married,Rejected,2331.04,2018-03-30
+C000608,44,Non-binary,69099.47,Bachelor,Sales,Miami,591,111067.66,11.3,Married,Rejected,3709.46,2018-01-30
+C000609,65,Female,,Doctorate,Sales,Austin,626,149627.68,19.6,Divorced,Approved,4190.64,2021-04-20
+C000610,60,Female,69159.49,High School,Analyst,Boston,608,84106.42,12.3,Married,Rejected,3651.39,2017-04-20
+C000611,59,Male,57904.26,High School,Engineer,Seattle,527,77058.85,11.8,Single,Rejected,1189.5,2023-01-17
+C000612,42,Male,53933.7,Bachelor,Teacher,,539,91300.35,10.4,Married,Rejected,2907.48,2018-06-12
+C000613,57,Female,72543.56,Bachelor,Technician,Miami,592,106372.47,13.3,Married,Rejected,3899.58,2022-05-01
+C000614,38,Male,78498.17,Doctorate,Engineer,Austin,612,107512.31,8.4,Married,Rejected,3458.48,2023-07-24
+C000615,52,Female,80547.16,Doctorate,Sales,Denver,593,68420.72,15.6,Married,Rejected,3235.53,2019-08-05
+C000616,50,Male,61429.35,High School,Technician,Austin,554,57668.89,9.0,Single,Rejected,1831.99,2015-11-29
+C000617,32,Female,43626.94,High School,Manager,Chicago,531,48401.7,1.1,Married,Rejected,1991.17,2021-04-23
+C000618,33,Female,67323.44,Master,Teacher,Atlanta,596,34724.31,10.1,Married,Rejected,2072.56,2018-10-22
+C000619,23,Female,30093.72,High School,Designer,Seattle,550,36398.9,2.2,Single,Rejected,887.77,2018-01-16
+C000620,27,Female,47713.39,Master,Teacher,Austin,552,24081.26,1.8,Married,Rejected,2533.87,2019-02-10
+C000621,40,Female,63310.52,Bachelor,Analyst,Austin,625,92466.67,5.8,Divorced,Approved,1790.47,2017-09-11
+C000622,42,Female,41709.97,High School,Analyst,Miami,579,70775.52,7.8,Married,Rejected,2139.02,2017-07-09
+C000623,28,Female,59390.73,Master,Teacher,Phoenix,546,86452.28,0.0,Divorced,Rejected,2057.85,2023-11-25
+C000624,40,Female,53174.47,High School,Manager,Miami,582,89279.08,10.9,Single,Rejected,1981.94,2017-07-03
+C000625,48,Female,64419.19,Bachelor,Teacher,Atlanta,593,32211.04,9.6,Divorced,Rejected,2241.37,2019-02-15
+C000626,31,Female,43495.71,Bachelor,Technician,Atlanta,618,26143.15,7.7,Single,Rejected,1567.39,2021-06-05
+C000627,36,Female,53544.23,Bachelor,Nurse,Phoenix,555,90349.79,5.6,Married,Rejected,2294.5,2016-12-26
+C000628,37,Female,57310.65,Bachelor,Analyst,Atlanta,595,106880.36,4.2,Married,Rejected,3570.19,2020-07-22
+C000629,44,Female,53596.96,Bachelor,Nurse,Chicago,585,92191.74,8.9,Married,Rejected,2583.97,2023-01-20
+C000630,37,Female,68501.13,Doctorate,Analyst,Seattle,632,111459.62,0.0,Divorced,Approved,4130.18,2022-04-24
+C000631,54,Female,90728.8,Doctorate,Nurse,Chicago,678,154470.36,13.9,Married,Rejected,4224.29,2015-04-04
+C000632,36,Male,51087.99,Bachelor,Sales,Austin,582,89777.07,6.2,Married,Rejected,1873.3,2018-08-23
+C000633,40,Non-binary,59606.51,High School,Sales,Denver,573,103205.2,10.7,Married,Rejected,1605.82,2015-01-01
+C000634,38,Male,45659.35,Master,Engineer,Boston,587,80114.55,2.3,Married,Rejected,1450.6,2020-06-16
+C000635,29,Male,72113.3,Doctorate,Manager,Phoenix,607,45130.92,7.0,Married,Rejected,3750.04,2017-12-04
+C000636,52,Male,84871.54,Bachelor,Sales,Austin,671,51564.69,15.7,Single,Rejected,3699.79,2023-01-14
+C000637,31,Female,64490.5,Bachelor,Engineer,Austin,591,71836.22,8.1,Married,Rejected,2602.68,2016-07-30
+C000638,34,Male,56232.6,Bachelor,Nurse,Austin,563,78552.13,5.7,Married,Rejected,3253.07,2022-08-28
+C000639,57,Male,69453.77,High School,Analyst,Phoenix,592,124770.39,18.4,Married,Rejected,2375.6,2018-01-29
+C000640,64,Male,74319.9,Bachelor,Designer,Seattle,566,79448.22,14.4,Married,Approved,3796.7,2023-04-11
+C000641,51,Male,71030.82,Bachelor,Manager,Seattle,627,68736.46,15.0,Single,Rejected,2524.45,2016-10-17
+C000642,63,Female,91855.64,Master,Engineer,Austin,603,167954.56,15.9,Married,Rejected,5131.89,2017-06-02
+C000643,60,Male,77164.21,Master,Technician,Miami,647,71289.9,12.2,Single,Rejected,2455.38,2018-02-27
+C000644,43,Male,72378.14,Master,Technician,Chicago,553,137187.73,6.5,Single,Rejected,2128.01,2023-11-12
+C000645,56,Female,89408.13,Bachelor,Sales,Phoenix,620,71627.27,15.1,Married,Rejected,4408.11,2021-08-07
+C000646,36,Male,,Bachelor,Analyst,Boston,607,58524.25,4.4,Single,Rejected,1927.21,2022-05-05
+C000647,42,Female,62773.04,Master,Designer,Denver,536,74186.97,10.3,Single,Rejected,3728.83,2019-12-22
+C000648,45,Non-binary,58383.48,Master,Designer,Phoenix,649,58918.73,5.4,Married,Rejected,2972.85,2022-02-23
+C000649,65,Male,82280.63,Bachelor,Designer,Atlanta,589,41609.87,12.9,Married,Approved,2423.55,2020-08-21
+C000650,60,Female,92182.87,Master,Designer,Atlanta,652,82998.3,20.6,Single,Approved,2951.28,2021-01-01
+C000651,43,Male,62968.17,High School,Designer,Denver,605,67628.51,12.2,Single,Rejected,3472.19,2022-07-13
+C000652,51,Female,72109.74,Master,Technician,Phoenix,628,74501.07,10.1,Married,Rejected,3360.93,2023-11-05
+C000653,30,Male,46828.97,High School,Analyst,Miami,565,85951.98,4.2,Married,Rejected,2751.21,2020-03-06
+C000654,58,Male,71388.6,High School,Nurse,Chicago,641,41442.88,18.8,Married,Approved,1963.23,2018-12-21
+C000655,46,Male,62331.24,Bachelor,Teacher,Austin,614,72379.83,12.1,Married,Rejected,4002.68,2020-11-15
+C000656,45,Male,54091.54,High School,Teacher,Phoenix,635,30495.53,10.9,Single,Rejected,2550.62,2021-09-01
+C000657,56,Female,62922.86,High School,Manager,Miami,621,131011.75,18.2,Divorced,Rejected,3222.27,2023-11-15
+C000658,50,Female,71595.64,High School,Manager,Atlanta,645,131976.26,10.6,Single,Rejected,2787.0,2021-04-14
+C000659,24,Female,43514.28,Bachelor,Sales,Atlanta,589,94411.83,1.8,Married,Rejected,1427.1,2023-08-02
+C000660,34,Female,66505.37,Master,Technician,Denver,535,136154.64,5.8,Single,Rejected,3629.18,2021-08-01
+C000661,29,Female,36049.87,High School,Teacher,Austin,632,37379.45,3.0,Married,Rejected,2402.5,2023-07-24
+C000662,54,Female,65408.72,Bachelor,Teacher,Miami,582,109604.86,13.2,Single,Rejected,2222.08,2021-10-04
+C000663,22,Female,49292.61,Master,Manager,Chicago,621,50334.76,1.0,Married,Approved,2754.52,2022-12-17
+C000664,30,Female,48713.36,High School,Nurse,Seattle,558,97911.86,4.3,Single,Rejected,1537.28,2016-09-18
+C000665,48,Male,52244.53,High School,Sales,Boston,603,62603.56,8.8,Married,Rejected,1737.34,2023-12-05
+C000666,52,Female,77123.58,Master,Nurse,Austin,604,87844.43,15.7,Single,Rejected,1798.66,2018-02-20
+C000667,44,Male,69945.86,Master,Teacher,Austin,617,143662.99,7.3,Single,Rejected,2543.29,2022-03-05
+C000668,60,Female,81970.38,Bachelor,Manager,Denver,607,157584.66,16.2,Single,Rejected,2087.4,2018-07-12
+C000669,63,Female,100598.37,Master,Manager,Chicago,688,215572.55,17.2,Married,Rejected,3769.48,2019-02-13
+C000670,27,Male,41990.61,High School,Technician,Seattle,569,25741.49,3.9,Married,Rejected,1346.58,2021-09-23
+C000671,64,Female,80461.76,Bachelor,Engineer,Denver,631,73515.99,12.5,Divorced,Rejected,4651.16,2019-11-11
+C000672,49,Female,84804.75,Master,Technician,Seattle,557,85776.45,14.7,Married,Approved,4645.6,2021-06-10
+C000673,50,Male,51350.71,High School,Designer,Seattle,572,62719.68,10.7,Divorced,Rejected,2360.91,2015-09-17
+C000674,25,Female,51357.42,Master,Technician,Atlanta,601,66986.56,5.5,Single,Rejected,1342.52,2022-06-30
+C000675,49,Female,59984.04,Bachelor,Nurse,Atlanta,598,59714.3,10.8,Married,Rejected,3027.7,2018-09-03
+C000676,54,Male,73232.94,Master,Engineer,Miami,649,135024.38,14.1,Married,Approved,2209.48,2022-02-03
+C000677,47,Female,78268.81,Bachelor,Sales,Phoenix,608,68838.6,16.7,Married,Rejected,4090.05,2017-07-26
+C000678,24,Male,44989.47,Bachelor,Engineer,Seattle,560,75765.84,0.9,Divorced,Rejected,2067.11,2020-05-11
+C000679,45,Female,60879.26,High School,Sales,Miami,630,118593.17,14.0,Married,Rejected,2155.74,2020-04-16
+C000680,64,Non-binary,58174.53,High School,Analyst,Atlanta,528,88791.04,18.6,Divorced,Rejected,1892.79,2016-04-04
+C000681,54,Male,96812.41,Master,Teacher,Denver,651,106694.07,15.4,Married,Approved,5064.06,2019-04-07
+C000682,27,Non-binary,32910.29,High School,Manager,Seattle,537,26967.19,3.1,Single,Rejected,1880.3,2020-09-18
+C000683,65,Male,92065.56,High School,Nurse,Boston,595,67059.5,21.3,Married,Rejected,4511.21,2022-07-09
+C000684,65,Female,64156.54,High School,Nurse,Phoenix,608,113242.53,17.0,Married,Rejected,3926.55,2022-12-23
+C000685,28,Male,30884.99,High School,Sales,Seattle,577,40074.03,0.6,Divorced,Rejected,2008.45,2018-06-17
+C000686,57,Female,68543.86,Master,Nurse,Denver,648,39669.3,13.8,Married,Rejected,2165.59,2020-10-13
+C000687,39,Male,61484.84,Bachelor,Manager,Denver,581,133577.48,8.3,Single,Rejected,3272.29,2016-07-27
+C000688,48,Male,76751.88,Doctorate,Teacher,Austin,651,125966.37,11.1,Single,Approved,2654.18,2023-01-21
+C000689,41,Female,47676.02,High School,Manager,Boston,604,92258.36,10.8,Single,Rejected,2129.93,2022-10-22
+C000690,57,Male,71970.56,Bachelor,Teacher,Atlanta,620,89597.64,19.2,Married,Rejected,2256.38,2023-12-26
+C000691,66,Female,87137.99,Bachelor,Engineer,Chicago,595,185102.5,16.6,Single,Approved,5420.02,2019-05-17
+C000692,57,Male,78666.45,Bachelor,Sales,Boston,585,66016.29,13.5,Married,Rejected,3629.73,2018-03-25
+C000693,63,Male,97864.46,Master,Designer,Phoenix,652,79733.25,14.0,Married,Approved,3077.98,2021-10-25
+C000694,64,Female,102760.96,Doctorate,Teacher,Phoenix,673,206916.29,24.2,Married,Rejected,3945.59,2021-07-04
+C000695,25,Male,55966.02,Master,Sales,Denver,548,112822.95,3.0,Single,Rejected,1695.6,2016-11-27
+C000696,32,Male,36639.46,High School,Analyst,Atlanta,505,49402.19,6.4,Married,Rejected,1947.75,2019-11-09
+C000697,54,Female,58375.15,High School,Analyst,Miami,603,41670.33,10.5,Single,Rejected,3534.23,2020-10-15
+C000698,48,Male,64275.57,Bachelor,Manager,Phoenix,579,65488.32,11.8,Divorced,Rejected,2153.58,2019-02-03
+C000699,23,Female,39282.0,High School,Technician,Seattle,561,70002.84,2.7,Single,Rejected,1519.71,2018-05-04
+C000700,25,Male,59281.38,Master,Nurse,Chicago,617,114898.35,1.4,Single,Rejected,2479.31,2017-02-26
+C000701,44,Female,73772.3,Bachelor,Sales,Miami,564,80486.55,13.1,Single,Rejected,2691.46,2018-09-14
+C000702,49,Male,70925.47,Bachelor,Nurse,Austin,622,42845.88,18.7,Married,Rejected,2877.44,2017-03-18
+C000703,28,Male,59779.91,Master,Engineer,Atlanta,569,97544.99,0.7,Single,Rejected,1503.66,2017-09-13
+C000704,28,Female,44251.23,Bachelor,Nurse,Austin,567,77755.83,0.5,Married,Rejected,1171.81,2016-08-30
+C000705,26,Female,32444.86,High School,Engineer,Miami,577,39609.49,0.1,Married,Rejected,1185.43,2018-05-21
+C000706,46,Male,57975.5,High School,Manager,Austin,553,86456.9,15.4,Married,Rejected,3246.75,2020-09-05
+C000707,21,Male,40540.42,Bachelor,Nurse,Austin,583,88318.58,3.0,Single,Rejected,1802.6,2018-05-25
+C000708,47,Female,77537.67,Bachelor,Engineer,Seattle,632,71063.09,11.0,Single,Rejected,2448.43,2016-04-11
+C000709,42,Female,55369.01,High School,Sales,Denver,568,81617.36,9.3,Married,Rejected,2862.05,2022-03-16
+C000710,42,Female,60139.39,Bachelor,Manager,Chicago,575,92532.43,7.0,Single,Rejected,3392.35,2018-11-18
+C000711,52,Non-binary,81373.89,Master,Engineer,Seattle,642,116648.02,15.9,Married,Rejected,3162.49,2020-04-01
+C000712,45,Female,87822.39,Master,Designer,Seattle,622,173670.56,9.4,Single,Rejected,1770.11,2019-09-16
+C000713,54,Male,81164.71,Bachelor,Nurse,Atlanta,626,124061.3,13.6,Married,Rejected,3658.96,2019-07-22
+C000714,56,Male,72882.63,Bachelor,Technician,Atlanta,633,99369.13,16.8,Single,Approved,2592.53,2018-12-10
+C000715,63,Male,71501.84,High School,Designer,Miami,572,50703.78,17.5,Married,Rejected,3467.56,2021-10-18
+C000716,57,Female,74325.92,Bachelor,Nurse,Chicago,640,126016.31,14.9,Single,Approved,2684.84,2022-09-09
+C000717,44,Female,64699.7,Bachelor,Teacher,Atlanta,629,46880.27,10.1,Married,Rejected,1193.77,2023-02-17
+C000718,43,Male,60846.43,Bachelor,Technician,Boston,603,33171.57,11.9,Single,Rejected,2089.5,2018-12-26
+C000719,31,Male,59308.52,Bachelor,Analyst,Denver,543,78910.17,9.2,Divorced,Rejected,2670.5,2018-01-24
+C000720,48,Female,70557.81,High School,Nurse,Boston,589,103942.72,13.4,Married,Rejected,2615.81,2015-09-30
+C000721,27,Female,32648.55,High School,Designer,Phoenix,561,71774.31,5.2,Single,Rejected,1217.81,2018-12-25
+C000722,63,Female,65907.54,High School,Nurse,Seattle,564,112764.87,17.5,Single,Rejected,2578.73,2023-12-04
+C000723,59,Female,81457.27,Master,Technician,Denver,610,158239.18,14.4,Single,Rejected,4139.21,2017-05-04
+C000724,26,Female,45362.22,Bachelor,Sales,Seattle,524,49393.09,4.4,Single,Rejected,1519.04,2022-08-07
+C000725,57,Male,81573.4,High School,Teacher,Seattle,623,111360.33,16.0,Single,Approved,4054.85,2021-10-21
+C000726,26,Female,57991.11,Master,Engineer,Atlanta,577,125043.75,0.0,Married,Rejected,2635.31,2020-12-08
+C000727,54,Male,78591.78,Bachelor,Sales,Phoenix,553,95061.52,13.4,Married,Rejected,2930.77,2020-01-31
+C000728,25,Female,43023.09,Bachelor,Analyst,Atlanta,571,80556.16,1.9,Single,Rejected,2385.63,2021-10-20
+C000729,43,Female,76155.82,Doctorate,Nurse,Denver,613,106175.04,8.2,Married,Rejected,4351.01,2015-11-20
+C000730,51,Male,57646.55,High School,Nurse,Seattle,616,50771.34,17.2,Single,Rejected,2106.12,2016-02-26
+C000731,54,Female,71749.57,High School,Manager,Boston,587,106670.92,15.6,Divorced,Rejected,1509.86,2016-10-04
+C000732,40,Male,67585.72,Bachelor,Analyst,Seattle,576,58847.26,12.2,Single,Rejected,2372.55,2021-11-21
+C000733,63,Female,,High School,Manager,Atlanta,587,42005.96,18.8,Married,Rejected,2543.35,2018-11-20
+C000734,56,Male,74427.07,Bachelor,Nurse,Boston,593,67060.52,15.3,Married,Rejected,3328.12,2016-11-13
+C000735,30,Male,37371.47,High School,Technician,Seattle,544,30956.45,1.6,Single,Rejected,2280.59,2015-05-28
+C000736,51,Male,63249.38,High School,Sales,Boston,592,71507.6,13.1,Single,Rejected,3580.2,2019-05-26
+C000737,54,Female,70897.2,High School,Engineer,Chicago,588,142546.95,14.3,Single,Rejected,2394.72,2018-08-02
+C000738,36,Female,41694.1,Bachelor,Designer,Denver,546,48338.06,2.9,Married,Rejected,1796.09,2016-08-07
+C000739,54,Female,68027.55,High School,Teacher,Seattle,576,131757.05,12.8,Married,Rejected,1521.31,2015-03-18
+C000740,62,Male,71708.55,High School,Analyst,Chicago,681,103586.02,16.7,Married,Rejected,2866.28,2021-10-12
+C000741,58,Female,80500.15,Master,Manager,Austin,606,41292.15,17.1,Married,Rejected,1490.23,2022-01-04
+C000742,56,Female,63524.2,Bachelor,Sales,Miami,592,52143.99,16.4,Married,Rejected,3655.83,2017-03-18
+C000743,50,Female,66779.69,Bachelor,Designer,Atlanta,700,139113.63,11.0,Married,Approved,3533.08,2019-06-10
+C000744,33,Female,55377.54,High School,Nurse,Austin,581,84566.75,6.8,Married,Rejected,1798.65,2017-04-11
+C000745,57,Female,86781.67,Bachelor,Analyst,Phoenix,570,180525.79,15.0,Married,Rejected,3895.47,2018-09-05
+C000746,37,Female,42069.95,High School,Analyst,Phoenix,565,43214.42,0.0,Single,Rejected,1741.35,2015-12-25
+C000747,45,Female,75824.44,Bachelor,Nurse,Austin,564,130278.22,9.1,Married,Rejected,4081.84,2023-07-06
+C000748,35,Male,49706.28,High School,Teacher,Denver,603,90089.8,9.3,Single,Rejected,1841.35,2021-06-25
+C000749,35,Female,63905.61,Master,Designer,Seattle,570,137952.35,1.6,Single,Rejected,2014.16,2023-02-08
+C000750,28,Female,62417.64,Doctorate,Analyst,Atlanta,583,33137.53,3.7,Married,Rejected,2820.52,2017-08-29
+C000751,65,Male,77861.59,High School,Designer,Boston,677,164973.38,23.3,Single,Approved,2040.06,2022-11-07
+C000752,27,Male,31528.53,High School,Teacher,Chicago,557,36752.92,0.8,Single,Rejected,1518.6,2019-08-30
+C000753,24,Female,22149.78,High School,Analyst,Atlanta,571,42629.19,1.7,Single,Rejected,861.08,2016-10-12
+C000754,64,Male,87380.61,Bachelor,Engineer,Austin,626,124605.79,14.8,Married,Rejected,4250.04,2017-12-27
+C000755,46,Non-binary,58480.89,High School,Teacher,Boston,582,85376.49,15.5,Married,Approved,2993.6,2022-04-19
+C000756,41,Male,63774.65,Master,Nurse,Miami,619,70849.96,8.6,Single,Rejected,1661.74,2021-12-19
+C000757,54,Male,74542.85,Master,Engineer,Atlanta,659,142257.83,14.4,Single,Rejected,2948.01,2021-06-23
+C000758,38,Male,69534.11,Master,Sales,Chicago,616,65975.57,11.4,Married,Approved,3308.81,2017-01-13
+C000759,26,Female,59689.27,Bachelor,Sales,Seattle,633,79793.23,4.4,Divorced,Rejected,1718.98,2020-10-28
+C000760,54,Female,101223.45,Doctorate,Analyst,Miami,661,147006.48,11.8,Single,Approved,4395.09,2023-06-18
+C000761,29,Male,27485.51,High School,Analyst,Austin,548,48437.33,2.0,Divorced,Rejected,1299.8,2015-06-10
+C000762,46,Non-binary,65043.06,Bachelor,Teacher,Seattle,607,84671.76,12.3,Divorced,Rejected,2182.15,2017-11-21
+C000763,64,Female,74575.63,Bachelor,Teacher,Denver,618,123533.11,16.7,Single,Approved,3681.75,2015-09-21
+C000764,64,Female,99706.26,Doctorate,Analyst,Phoenix,593,132110.79,12.6,Married,Rejected,4287.13,2015-12-08
+C000765,37,Male,58511.97,Bachelor,Engineer,Chicago,578,94838.84,7.0,Married,Rejected,2884.0,2023-12-22
+C000766,56,Female,74912.78,Master,Sales,Miami,615,123309.73,11.0,Married,Approved,1812.32,2017-02-28
+C000767,49,Male,66038.43,High School,Engineer,Boston,589,112664.91,16.7,Married,Approved,1663.38,2016-08-12
+C000768,43,Male,77222.79,Doctorate,Engineer,Atlanta,632,146693.15,10.2,Married,Rejected,2140.53,2015-08-31
+C000769,27,Male,54439.21,Bachelor,Nurse,Atlanta,560,77261.67,0.4,Married,Rejected,3181.83,2023-10-28
+C000770,38,Male,59019.83,Bachelor,Sales,Denver,601,48902.23,5.6,Married,Rejected,3212.22,2019-03-20
+C000771,50,Male,84625.48,Doctorate,Engineer,Atlanta,634,140088.12,7.3,Divorced,Rejected,4310.67,2022-02-12
+C000772,66,Male,64334.84,Bachelor,Teacher,Boston,612,40601.77,16.2,Married,Rejected,1986.6,2017-04-02
+C000773,21,Male,43745.87,Bachelor,Nurse,Miami,522,38156.18,3.0,Married,Rejected,1908.18,2020-10-06
+C000774,54,Male,94595.67,Bachelor,Analyst,Atlanta,695,174686.78,20.5,Married,Approved,4985.82,2022-12-20
+C000775,59,Male,81036.53,High School,Nurse,Miami,607,100454.44,18.4,Single,Rejected,3863.1,2021-01-13
+C000776,64,Female,71080.65,Bachelor,Designer,Miami,614,95722.55,18.2,Single,Rejected,1764.75,2019-08-26
+C000777,40,Male,47791.35,High School,Nurse,Atlanta,553,104117.03,7.2,Single,Rejected,2760.52,2016-11-22
+C000778,26,Female,26670.12,High School,Analyst,Chicago,519,23997.6,0.0,Married,Rejected,864.19,2017-02-05
+C000779,33,Male,79434.97,Master,Technician,Denver,667,42357.88,11.2,Single,Rejected,2390.01,2020-05-14
+C000780,60,Male,80413.61,Bachelor,Teacher,Seattle,659,55431.79,16.3,Married,Approved,4552.92,2019-01-22
+C000781,61,Female,82561.85,Bachelor,Teacher,Miami,654,75598.01,23.1,Single,Rejected,3695.77,2015-06-02
+C000782,50,Female,74524.25,Bachelor,Teacher,Denver,613,129229.83,16.5,Single,Approved,2645.46,2016-10-05
+C000783,26,Female,26032.12,Bachelor,Designer,Chicago,566,47349.76,0.0,Married,Rejected,1366.55,2018-11-20
+C000784,26,Male,36714.15,Bachelor,Designer,Boston,556,53651.54,0.7,Single,Rejected,2045.68,2016-08-10
+C000785,42,Female,76736.89,Doctorate,Sales,Denver,606,71639.94,7.4,Divorced,Rejected,2326.74,2019-12-25
+C000786,48,Female,89880.61,Doctorate,Sales,Miami,641,124660.92,11.5,Single,Rejected,4813.84,2017-09-14
+C000787,22,Male,29246.8,Bachelor,Technician,Boston,537,15367.08,0.7,Divorced,Rejected,988.2,2017-08-15
+C000788,52,Male,79177.85,Bachelor,Sales,Austin,645,131360.94,21.8,Single,Rejected,2486.27,2015-12-22
+C000789,46,Female,68627.47,Bachelor,Sales,Denver,592,105981.81,7.9,Divorced,Rejected,2747.46,2019-07-12
+C000790,21,Female,32418.89,Bachelor,Designer,Boston,574,17410.7,1.1,Married,Rejected,1250.83,2016-09-11
+C000791,25,Non-binary,48581.15,Bachelor,Technician,Phoenix,550,91765.9,3.8,Single,Rejected,1433.09,2020-09-01
+C000792,41,Male,61187.55,Bachelor,Analyst,Miami,610,110004.52,8.8,Single,Rejected,2540.85,2023-06-09
+C000793,54,Male,85069.68,Bachelor,Nurse,Phoenix,584,87109.68,14.6,Single,Rejected,4133.93,2023-03-16
+C000794,58,Female,72485.56,Bachelor,Designer,Austin,583,114537.35,13.0,Married,Rejected,3032.97,2020-12-30
+C000795,40,Female,59022.39,Bachelor,Nurse,Boston,569,89863.83,8.7,Married,Rejected,2917.15,2022-04-06
+C000796,34,Female,61151.54,Bachelor,Teacher,Austin,550,45460.45,7.3,Single,Rejected,3338.91,2023-04-14
+C000797,65,Male,68359.47,High School,Manager,Austin,642,56638.61,19.8,Married,Rejected,2529.2,2021-02-17
+C000798,42,Female,53728.13,High School,Sales,Boston,548,89266.63,10.8,Married,Rejected,2511.32,2017-04-23
+C000799,35,Female,65144.15,Master,Sales,Chicago,585,135958.3,10.3,Married,Rejected,2748.5,2019-07-04
+C000800,41,Male,63009.28,Bachelor,Nurse,Boston,637,93233.78,11.4,Married,Rejected,2767.56,2022-09-16
+C000801,21,Male,38338.19,High School,Analyst,Phoenix,525,56176.28,0.6,Married,Rejected,1261.18,2021-01-03
+C000802,34,Male,53540.94,Bachelor,Nurse,Austin,558,85631.18,2.6,Married,Rejected,1797.31,2018-04-05
+C000803,44,Male,65333.55,Master,Nurse,Atlanta,566,81600.5,8.4,Divorced,Rejected,2117.56,2016-07-07
+C000804,63,Male,74062.58,High School,Designer,Phoenix,630,43851.9,17.4,Single,Rejected,2475.77,2016-04-18
+C000805,54,Female,92591.75,Master,Engineer,Chicago,656,108707.95,15.0,Single,Rejected,5383.38,2018-05-23
+C000806,56,Female,85512.92,Doctorate,Teacher,Atlanta,657,173627.9,13.8,Single,Approved,4011.27,2022-03-28
+C000807,46,Male,63483.52,Bachelor,Nurse,Chicago,602,118613.22,8.3,Married,Rejected,2763.4,2019-12-21
+C000808,26,Female,41724.46,Bachelor,Designer,Miami,555,86645.84,0.0,Single,Rejected,1700.2,2015-07-15
+C000809,38,Male,43354.51,High School,Nurse,Austin,531,32941.35,2.9,Divorced,Rejected,1915.05,2023-04-06
+C000810,66,Male,90975.29,Doctorate,Nurse,Miami,624,123738.06,18.7,Married,Approved,3675.8,2018-08-22
+C000811,23,Non-binary,50709.96,Bachelor,Technician,Phoenix,599,75762.6,0.0,Married,Rejected,1903.54,2018-07-07
+C000812,61,Female,89048.95,Doctorate,Technician,Phoenix,660,76303.67,14.4,Married,Rejected,4319.63,2022-05-15
+C000813,52,Female,76933.96,Bachelor,Engineer,Chicago,580,64751.42,12.3,Single,Rejected,2124.57,2018-05-23
+C000814,34,Female,36848.37,High School,Designer,Atlanta,545,67412.47,2.1,Married,Rejected,1491.56,2020-07-20
+C000815,56,Female,64234.19,High School,Sales,Seattle,588,105482.06,16.2,Single,Rejected,2434.12,2023-04-15
+C000816,59,Female,88848.45,Bachelor,Analyst,Seattle,590,142176.96,18.5,Married,Rejected,4304.27,2019-08-29
+C000817,22,Female,47520.25,Bachelor,Nurse,Miami,562,45328.55,0.0,Divorced,Rejected,2822.77,2020-07-10
+C000818,25,Male,36407.92,High School,Designer,Atlanta,529,49569.67,0.9,Married,Rejected,1576.4,2018-03-07
+C000819,51,Male,85857.24,Master,Nurse,Boston,595,46295.85,14.5,Married,Approved,3535.82,2023-01-04
+C000820,66,Male,89589.38,Master,Sales,Austin,585,64585.73,17.3,Single,Rejected,2396.49,2015-09-04
+C000821,22,Female,41005.61,Bachelor,Sales,Phoenix,504,56629.83,0.0,Married,Rejected,2136.46,2017-06-26
+C000822,51,Female,70323.68,Bachelor,Technician,Boston,602,72183.24,16.4,Married,Rejected,4181.88,2023-11-30
+C000823,27,Female,47335.29,High School,Manager,Miami,559,101375.09,5.4,Married,Rejected,2532.34,2019-05-10
+C000824,50,Female,75634.02,Master,Teacher,Denver,593,98439.5,14.3,Single,Rejected,4099.8,2016-07-28
+C000825,49,Female,81399.68,Bachelor,Sales,Atlanta,634,52263.4,14.8,Single,Rejected,2290.46,2018-09-21
+C000826,25,Non-binary,48947.08,Master,Sales,Atlanta,566,25958.2,0.0,Married,Rejected,2365.3,2017-04-18
+C000827,52,Female,76270.19,Bachelor,Teacher,Atlanta,638,132171.55,17.2,Single,Rejected,4565.68,2019-09-22
+C000828,62,Female,87677.06,Bachelor,Technician,Austin,620,69401.78,18.7,Married,Rejected,4151.14,2017-02-13
+C000829,60,Male,74511.34,High School,Analyst,Chicago,587,61045.73,19.6,Married,Approved,3560.64,2018-08-04
+C000830,22,Male,32932.46,High School,Nurse,Seattle,549,40193.15,1.9,Divorced,Rejected,1202.73,2023-03-02
+C000831,32,Male,60377.24,Master,Engineer,Atlanta,548,57292.14,5.2,Single,Rejected,3025.27,2015-09-28
+C000832,32,Female,56792.78,Bachelor,Teacher,Denver,589,87925.51,4.3,Divorced,Approved,1350.8,2021-11-13
+C000833,41,Male,57689.07,Bachelor,Manager,Chicago,559,76477.08,9.8,Single,Rejected,1454.23,2015-09-14
+C000834,27,Female,62119.99,Doctorate,Teacher,Atlanta,621,42829.62,2.1,Married,Rejected,3326.52,2019-02-11
+C000835,60,Female,99442.93,Doctorate,Engineer,Austin,646,182384.24,19.2,Married,Approved,5640.27,2021-01-04
+C000836,56,Male,84313.31,Master,Manager,Phoenix,644,103196.12,10.7,Single,Approved,4771.6,2023-08-05
+C000837,58,Male,66523.31,High School,Designer,Boston,556,102340.68,14.4,Single,Rejected,2583.05,2017-04-01
+C000838,30,Female,68564.55,Bachelor,Analyst,Austin,575,34741.79,9.9,Single,Rejected,1580.81,2015-06-23
+C000839,21,Male,48062.5,Master,Engineer,Austin,581,75212.05,0.0,Married,Approved,1991.97,2021-10-02
+C000840,62,Female,79081.08,Bachelor,Technician,Phoenix,654,77566.26,17.0,Married,Rejected,4032.96,2023-01-14
+C000841,34,Female,41298.82,High School,Manager,Seattle,604,55358.19,3.4,Single,Rejected,2188.69,2020-01-31
+C000842,51,Female,71674.27,Master,Designer,Phoenix,620,72113.28,14.0,Single,Rejected,4239.9,2015-07-18
+C000843,62,Male,72215.43,Bachelor,Sales,Chicago,668,158414.88,15.6,Married,Rejected,2501.75,2019-07-03
+C000844,22,Female,37995.01,Bachelor,Analyst,Seattle,544,33907.96,0.3,Single,Rejected,1581.15,2018-07-08
+C000845,21,Male,68319.09,Doctorate,Manager,Seattle,634,140181.29,2.8,Married,Rejected,3567.15,2019-01-23
+C000846,21,Female,40364.68,Bachelor,Teacher,Boston,524,83173.17,0.0,Divorced,Rejected,1325.67,2015-06-27
+C000847,28,Male,47471.55,Bachelor,Analyst,Austin,588,57711.21,5.6,Married,Rejected,2620.16,2017-11-08
+C000848,23,Male,53787.17,Bachelor,Technician,Chicago,496,54691.08,3.6,Married,Rejected,2381.25,2023-12-26
+C000849,58,Female,91119.3,Bachelor,Sales,Seattle,593,104583.13,18.9,Married,Approved,2013.78,2015-05-31
+C000850,48,Female,67784.2,High School,Analyst,Denver,602,147896.76,12.2,Married,Rejected,1425.44,2023-03-23
+C000851,66,Female,99209.55,Master,Teacher,Seattle,633,153968.61,28.4,Single,Approved,5377.0,2019-08-28
+C000852,57,Male,85332.12,Master,Sales,Atlanta,651,121694.39,18.5,Single,Approved,3803.07,2020-04-05
+C000853,65,Female,88760.87,High School,Engineer,Boston,646,49800.21,19.8,Married,Approved,4478.93,2023-05-25
+C000854,31,Male,49548.3,Bachelor,Technician,Austin,546,96189.76,2.2,Single,Rejected,2658.35,2016-12-16
+C000855,34,Female,,Master,Nurse,Phoenix,559,38747.52,5.6,Divorced,Rejected,2358.76,2023-11-08
+C000856,60,Male,80421.72,High School,Sales,Miami,604,46632.78,20.8,Married,Rejected,4586.83,2017-06-28
+C000857,32,Male,64199.48,Bachelor,Nurse,Boston,564,62097.51,9.8,Divorced,Rejected,3307.04,2018-02-20
+C000858,23,Male,43825.58,Bachelor,Engineer,Miami,569,57360.7,5.0,Single,Rejected,1383.75,2019-01-16
+C000859,51,Non-binary,74668.61,Bachelor,Engineer,Chicago,615,150979.27,15.2,Married,Rejected,3835.51,2020-05-30
+C000860,57,Female,69811.62,High School,Technician,Phoenix,575,128672.17,12.0,Married,Rejected,2563.63,2017-11-26
+C000861,65,Male,78475.0,Bachelor,Sales,Boston,680,65603.11,20.3,Single,Approved,2885.12,2022-02-18
+C000862,63,Female,78321.13,Bachelor,Sales,Atlanta,584,88701.44,14.6,Married,Rejected,2983.13,2015-03-12
+C000863,26,Male,35736.47,Bachelor,Sales,Denver,595,65269.39,0.0,Married,Approved,1996.69,2020-12-29
+C000864,56,Male,61434.3,High School,Teacher,Atlanta,562,85765.79,15.8,Divorced,Rejected,1349.22,2020-11-25
+C000865,59,Male,76573.8,Bachelor,Designer,Miami,622,61001.47,17.8,Married,Approved,3115.52,2019-10-23
+C000866,53,Male,78708.62,Bachelor,Sales,Miami,655,92348.34,16.4,Single,Rejected,3460.94,2020-07-08
+C000867,58,Female,68569.23,High School,Technician,Chicago,639,107248.51,17.4,Married,Approved,2017.38,2021-09-22
+C000868,59,Female,67547.41,High School,Designer,Denver,590,145529.79,17.9,Married,Rejected,3534.14,2023-02-18
+C000869,41,Female,49290.67,High School,Designer,Boston,578,80101.31,6.1,Single,Rejected,2764.77,2016-12-18
+C000870,22,Male,34260.02,Bachelor,Technician,Austin,566,18073.25,0.5,Married,Rejected,871.78,2019-04-16
+C000871,41,Female,49987.31,High School,Manager,Denver,539,84904.15,4.6,Single,Rejected,1418.05,2020-01-21
+C000872,30,Female,69254.01,Doctorate,Nurse,Atlanta,606,64161.78,0.0,Single,Rejected,4322.98,2018-02-06
+C000873,26,Female,47977.73,Bachelor,Technician,Miami,631,94308.4,4.6,Married,Rejected,2049.57,2023-10-05
+C000874,26,Female,50656.28,Master,Engineer,Seattle,585,58387.08,0.4,Single,Rejected,1548.18,2019-08-08
+C000875,53,Female,94930.96,Doctorate,Technician,Chicago,665,79679.88,16.3,Married,Approved,5427.69,2020-04-30
+C000876,44,Female,45755.0,High School,Analyst,Seattle,605,59276.07,13.2,Single,Rejected,2678.52,2016-10-01
+C000877,45,Male,66108.41,Bachelor,Designer,Chicago,541,61734.45,8.8,Married,Rejected,3253.19,2018-09-27
+C000878,55,Male,105185.7,Master,Teacher,Austin,654,94761.43,16.4,Single,Approved,4414.57,2020-08-16
+C000879,46,Female,62665.12,Bachelor,Technician,Atlanta,554,92402.54,9.1,Divorced,Rejected,3347.38,2018-11-08
+C000880,49,Male,61659.53,Bachelor,Analyst,Atlanta,560,111263.93,7.0,Single,Approved,2909.36,2021-12-04
+C000881,24,Male,49283.77,Bachelor,Teacher,Seattle,633,94596.36,2.0,Married,Rejected,2485.11,2016-03-25
+C000882,60,Female,80072.53,High School,Designer,Seattle,592,94168.4,15.5,Single,Approved,4055.29,2016-05-19
+C000883,41,Female,65622.59,Bachelor,Manager,Phoenix,561,40263.82,7.6,Single,Approved,2973.25,2018-01-18
+C000884,28,Female,57597.71,Doctorate,Teacher,Denver,651,76187.8,8.9,Married,Approved,2510.75,2017-11-11
+C000885,58,Female,93027.21,Doctorate,Teacher,,598,115114.53,11.7,Married,Rejected,3507.48,2022-05-02
+C000886,54,Male,83059.99,High School,Manager,Austin,588,69343.82,15.4,Divorced,Rejected,3725.31,2022-10-21
+C000887,23,Non-binary,45585.87,Bachelor,Designer,Miami,595,92240.55,0.0,Single,Rejected,1682.94,2019-03-31
+C000888,29,Female,44502.85,Bachelor,Teacher,Seattle,577,95950.45,6.3,Single,Rejected,2050.58,2019-07-19
+C000889,21,Male,52418.62,Master,Technician,Austin,525,30820.59,1.3,Married,Rejected,1807.55,2017-08-25
+C000890,33,Female,37342.13,High School,Engineer,Miami,577,69186.33,6.5,Married,Rejected,1604.0,2019-10-14
+C000891,25,Male,67513.22,Doctorate,Technician,Denver,575,107867.1,0.0,Single,Rejected,2595.78,2021-05-09
+C000892,53,Male,72286.39,Master,Nurse,Seattle,659,68270.27,11.7,Married,Approved,1550.23,2021-07-01
+C000893,45,Female,59798.15,High School,Teacher,Austin,569,94467.04,13.1,Married,Rejected,2008.86,2023-09-19
+C000894,66,Female,77238.31,High School,Engineer,Boston,662,55510.67,24.3,Married,Rejected,2445.27,2020-03-13
+C000895,55,Male,81101.92,Master,Sales,Boston,685,50120.26,16.0,Single,Rejected,4217.04,2018-01-22
+C000896,49,Non-binary,66780.65,High School,Manager,Phoenix,551,146178.25,9.7,Married,Rejected,2506.73,2015-08-17
+C000897,44,Female,65527.31,Bachelor,Analyst,Seattle,589,103652.98,11.0,Single,Rejected,2280.34,2021-03-09
+C000898,23,Female,52405.18,Master,Designer,Seattle,600,48761.89,5.0,Married,Rejected,2723.46,2022-03-26
+C000899,24,Female,36936.16,Bachelor,Technician,Miami,531,46726.37,2.0,Single,Rejected,1086.53,2019-12-20
+C000900,49,Male,61381.73,Bachelor,Designer,Phoenix,619,129831.55,16.3,Married,Approved,1791.95,2023-04-20
+C000901,21,Male,32446.68,Bachelor,Designer,Austin,543,40423.13,0.0,Married,Rejected,1567.29,2017-11-07
+C000902,22,Male,34154.33,High School,Teacher,Boston,534,69359.09,0.7,Married,Rejected,1182.74,2015-06-25
+C000903,31,Male,76377.26,Doctorate,Analyst,Phoenix,613,150995.98,6.4,Single,Rejected,3917.76,2020-09-10
+C000904,61,Male,78136.74,Bachelor,Manager,Atlanta,623,84783.5,18.3,Single,Approved,3996.12,2016-02-03
+C000905,42,Male,60881.47,High School,Teacher,Boston,574,102476.62,7.1,Married,Rejected,3280.34,2015-10-04
+C000906,53,Female,56688.27,High School,Teacher,Austin,560,91996.41,11.6,Married,Rejected,1549.5,2021-04-24
+C000907,39,Male,77569.56,Doctorate,Nurse,Austin,607,140483.14,10.7,Divorced,Rejected,3763.17,2018-11-27
+C000908,28,Female,36458.36,High School,Designer,Austin,558,40909.18,6.7,Single,Rejected,2052.37,2020-06-08
+C000909,38,Female,77832.75,Master,Manager,Denver,616,45828.08,11.8,Married,Rejected,2435.67,2021-09-22
+C000910,25,Male,64533.82,Bachelor,Sales,Miami,573,51031.2,7.0,Single,Rejected,3702.53,2018-06-10
+C000911,56,Male,73024.51,Master,Teacher,Boston,633,113052.26,15.5,Single,Rejected,2599.92,2020-06-30
+C000912,29,Non-binary,62660.32,Doctorate,Engineer,Phoenix,536,113895.8,2.9,Single,Rejected,3638.99,2019-11-07
+C000913,38,Female,79072.4,Master,Technician,Seattle,593,141166.58,11.3,Married,Rejected,3598.92,2020-03-20
+C000914,66,Male,95354.77,Doctorate,Teacher,Miami,652,142293.98,21.3,Single,Approved,3943.14,2021-04-29
+C000915,48,Male,59534.4,High School,Sales,Denver,546,38345.44,9.0,Single,Approved,1773.33,2018-06-03
+C000916,42,Female,74714.55,Master,Analyst,Miami,648,39553.19,6.3,Married,Rejected,3945.27,2019-07-16
+C000917,45,Female,66861.37,Bachelor,Engineer,Austin,599,122332.31,11.9,Married,Rejected,2630.44,2020-04-25
+C000918,57,Male,79489.07,Bachelor,Teacher,Austin,617,113982.55,15.0,Single,Approved,1670.87,2016-04-05
+C000919,32,Female,71765.06,Master,Technician,Austin,577,131373.88,5.0,Single,Rejected,1785.55,2016-11-26
+C000920,50,Male,102888.48,Doctorate,Designer,Phoenix,648,79917.64,15.6,Married,Rejected,5333.82,2015-10-21
+C000921,61,Female,82591.58,Bachelor,Teacher,Seattle,588,98500.32,19.3,Single,Approved,2606.35,2016-10-12
+C000922,47,Female,67675.92,Bachelor,Manager,Chicago,604,139587.52,15.1,Single,Rejected,2899.25,2018-12-12
+C000923,41,Male,48294.17,Bachelor,Technician,Chicago,533,38235.29,3.4,Married,Rejected,2436.35,2023-06-08
+C000924,27,Female,54189.68,Bachelor,Designer,Phoenix,561,32762.85,3.6,Single,Rejected,1799.02,2023-04-20
+C000925,32,Male,45325.61,Bachelor,Designer,Seattle,495,73014.78,7.0,Married,Rejected,1834.01,2021-11-10
+C000926,64,Male,76624.94,Bachelor,Analyst,Austin,569,115758.2,14.2,Single,Rejected,2532.3,2020-01-07
+C000927,45,Female,54667.03,High School,Technician,Chicago,618,115809.48,8.7,Single,Rejected,3160.53,2016-10-27
+C000928,34,Male,39282.45,High School,Sales,Seattle,576,80175.34,3.5,Single,Rejected,2042.3,2018-03-22
+C000929,40,Male,70171.74,Master,Analyst,Boston,644,124486.88,8.5,Single,Approved,2386.02,2021-11-22
+C000930,47,Male,88806.93,Bachelor,Engineer,Phoenix,665,47295.67,15.9,Single,Rejected,3770.8,2023-03-05
+C000931,45,Male,87705.51,Doctorate,Designer,Austin,668,115478.15,16.2,Single,Approved,3628.77,2023-08-28
+C000932,53,Male,67005.86,Bachelor,Sales,Phoenix,581,135577.86,11.6,Divorced,Rejected,3847.87,2018-06-30
+C000933,32,Male,51776.89,High School,Engineer,Austin,533,64058.72,6.5,Married,Rejected,1721.29,2019-05-18
+C000934,50,Female,64554.85,High School,Engineer,Atlanta,629,137866.43,14.2,Single,Approved,2850.54,2019-07-31
+C000935,41,Male,62922.11,High School,Manager,Chicago,582,101256.11,9.9,Married,Rejected,3466.35,2015-07-04
+C000936,64,Male,102807.04,Doctorate,Engineer,Seattle,738,70533.56,19.6,Married,Approved,2828.9,2016-01-18
+C000937,28,Male,38877.82,High School,Teacher,Chicago,542,53097.88,4.2,Married,Rejected,1648.55,2015-05-29
+C000938,27,Male,41064.02,Bachelor,Sales,Seattle,642,69092.24,7.7,Single,Rejected,1249.4,2021-08-19
+C000939,42,Female,71924.01,Doctorate,Designer,Phoenix,622,43954.72,12.3,Single,Approved,3340.11,2017-01-06
+C000940,44,Male,65221.84,Doctorate,Teacher,Miami,649,70824.67,7.1,Single,Approved,2300.76,2021-04-19
+C000941,52,Non-binary,68227.33,High School,Engineer,Phoenix,653,117285.36,15.7,Single,Rejected,3909.83,2018-05-17
+C000942,39,Female,44439.75,High School,Nurse,Chicago,542,34086.24,10.5,Single,Rejected,1828.27,2022-02-22
+C000943,63,Female,83131.54,High School,Teacher,Atlanta,597,90794.43,18.9,Married,Approved,1923.44,2016-01-15
+C000944,42,Male,57246.19,High School,Technician,Chicago,553,95764.15,12.4,Divorced,Rejected,3229.86,2017-12-04
+C000945,26,Male,36548.71,High School,Engineer,Phoenix,510,66460.9,3.0,Single,Rejected,1615.54,2016-11-03
+C000946,26,Male,41192.51,Bachelor,Teacher,Atlanta,585,56906.22,3.1,Married,Rejected,1755.9,2018-12-03
+C000947,65,Female,97332.05,Master,Engineer,Chicago,636,206991.96,19.2,Single,Rejected,4850.9,2020-01-21
+C000948,27,Female,38230.76,Bachelor,Designer,Chicago,553,79254.76,0.0,Married,Rejected,1653.75,2016-07-07
+C000949,64,Male,76720.9,Bachelor,Designer,Chicago,637,100108.73,18.3,Married,Approved,3898.25,2020-12-31
+C000950,33,Male,49870.95,High School,Sales,Atlanta,495,38523.64,3.6,Single,Rejected,1360.35,2023-09-04
+C000951,25,Male,53305.04,Master,Nurse,Boston,611,96694.47,0.0,Married,Rejected,1692.79,2015-05-23
+C000952,35,Male,58151.26,Bachelor,Manager,Chicago,582,53111.71,10.3,Divorced,Rejected,3009.47,2015-10-10
+C000953,49,Male,82999.45,Master,Teacher,Phoenix,639,160421.03,13.6,Married,Rejected,4214.59,2023-07-26
+C000954,40,Male,76737.82,Doctorate,Technician,Phoenix,636,114964.42,8.3,Married,Rejected,2340.74,2020-11-02
+C000955,57,Male,77099.85,Bachelor,Technician,Chicago,650,90203.59,14.0,Married,Approved,1966.88,2023-04-10
+C000956,49,Male,55821.62,High School,Technician,Miami,582,80709.78,13.0,Single,Rejected,3272.61,2021-05-05
+C000957,39,Male,67084.82,High School,Teacher,Denver,517,94306.15,10.8,Single,Rejected,1756.47,2021-06-14
+C000958,50,Female,63073.86,Bachelor,Technician,Miami,592,130691.94,10.3,Married,Rejected,2222.73,2016-06-02
+C000959,65,Female,111477.88,Doctorate,Sales,Seattle,666,96363.4,18.9,Single,Rejected,2999.2,2019-08-09
+C000960,39,Male,60485.06,Bachelor,Designer,Atlanta,560,125680.04,10.4,Married,Rejected,1441.37,2018-04-15
+C000961,28,Male,57686.13,Master,Teacher,Seattle,575,31916.57,0.0,Married,Rejected,1852.22,2022-07-01
+C000962,39,Male,63375.02,Bachelor,Sales,Chicago,573,114559.57,7.8,Single,Rejected,3668.76,2015-05-22
+C000963,59,Female,75988.12,High School,Manager,Seattle,555,156796.6,15.2,Single,Rejected,2780.51,2015-03-01
+C000964,31,Male,45010.28,Bachelor,Engineer,Boston,589,52657.02,4.2,Divorced,Rejected,1681.42,2020-01-03
+C000965,64,Female,88702.16,Bachelor,Technician,,602,55369.15,17.1,Single,Rejected,4525.37,2023-09-23
+C000966,48,Male,80116.28,Bachelor,Analyst,Phoenix,591,149651.98,12.1,Single,Rejected,3450.01,2023-12-13
+C000967,48,Male,72433.88,Bachelor,Technician,Miami,604,140005.3,17.1,Single,Rejected,3546.13,2020-05-03
+C000968,35,Male,45497.21,High School,Sales,Atlanta,598,48756.52,5.4,Married,Rejected,2080.66,2018-11-13
+C000969,63,Male,88489.75,Master,Teacher,Atlanta,637,122258.19,18.9,Divorced,Rejected,4011.5,2017-06-15
+C000970,22,Female,35108.16,High School,Analyst,Boston,556,65866.34,4.0,Single,Rejected,1517.27,2023-11-27
+C000971,34,Female,80152.2,Doctorate,Technician,Denver,591,66243.63,4.3,Divorced,Rejected,4220.17,2016-08-24
+C000972,40,Male,50849.78,High School,Teacher,Boston,602,79796.47,13.5,Single,Rejected,2460.57,2016-02-19
+C000973,42,Male,47142.11,High School,Nurse,Denver,614,58082.48,9.3,Married,Rejected,2358.57,2019-07-28
+C000974,42,Male,78206.03,Bachelor,Analyst,Boston,633,62291.63,14.2,Single,Rejected,2528.49,2018-07-13
+C000975,27,Female,53568.24,Bachelor,Designer,Seattle,597,102500.06,5.0,Married,Rejected,2655.73,2019-06-17
+C000976,31,Female,65738.29,Bachelor,Sales,Boston,600,69153.88,5.5,Married,Rejected,3241.53,2023-02-10
+C000977,25,Female,41871.63,Bachelor,Designer,Phoenix,516,87449.92,1.9,Married,Rejected,1463.8,2017-06-05
+C000978,47,Female,82392.05,Doctorate,Teacher,Denver,592,120884.59,9.6,Single,Rejected,4379.79,2022-11-19
+C000979,37,Female,52788.26,Bachelor,Teacher,Atlanta,573,72566.28,7.4,Married,Rejected,1742.9,2016-11-26
+C000980,47,Male,70614.59,Bachelor,Sales,Chicago,583,86122.98,13.9,Divorced,Rejected,2221.39,2017-11-28
+C000981,48,Male,56076.32,Bachelor,Sales,Seattle,559,66234.01,11.7,Married,Rejected,2866.89,2015-01-15
+C000982,53,Female,67460.35,High School,Manager,Atlanta,529,127536.67,13.0,Married,Rejected,2254.81,2021-02-07
+C000983,46,Female,66943.95,Bachelor,Designer,Miami,550,110574.77,10.2,Married,Rejected,2490.91,2022-09-21
+C000984,50,Female,64080.62,High School,Manager,,588,116323.83,15.4,Single,Rejected,2295.71,2022-12-21
+C000985,48,Male,69231.17,Bachelor,Teacher,Miami,608,84174.24,15.2,Married,Rejected,3792.73,2016-07-04
+C000986,51,Female,54046.47,High School,Engineer,Phoenix,552,51043.83,11.2,Single,Rejected,2695.86,2021-11-24
+C000987,49,Male,88119.68,Doctorate,Designer,Atlanta,627,57072.55,10.3,Married,Rejected,4180.21,2016-04-09
+C000988,35,Male,48522.56,Bachelor,Sales,Atlanta,565,88326.35,7.4,Single,Rejected,2172.55,2020-08-26
+C000989,32,Female,68867.83,Master,Manager,Seattle,641,83052.53,9.3,Single,Rejected,2904.48,2021-04-26
+C000990,57,Male,93842.46,Bachelor,Sales,Denver,625,128158.78,18.7,Married,Rejected,5573.48,2016-05-16
+C000991,36,Male,52793.67,High School,Analyst,Atlanta,576,68520.03,3.2,Married,Rejected,3025.88,2015-12-30
+C000992,46,Female,63513.37,Master,Nurse,Phoenix,610,78307.82,10.2,Married,Rejected,2291.27,2015-08-28
+C000993,30,Female,43324.37,Bachelor,Manager,Denver,513,72032.37,1.6,Divorced,Rejected,2751.54,2021-05-15
+C000994,40,Male,70120.59,Master,Technician,Boston,596,107624.44,7.7,Single,Rejected,3118.36,2020-07-12
+C000995,45,Male,69633.99,Bachelor,Teacher,Boston,571,149886.56,15.0,Single,Rejected,1648.33,2016-01-28
+C000996,49,Male,54759.92,Bachelor,Teacher,Phoenix,576,40310.79,8.2,Single,Rejected,1752.92,2019-07-02
+C000997,45,Male,70265.17,Master,Manager,Seattle,568,103639.91,6.0,Married,Rejected,3273.89,2022-02-27
+C000998,37,Female,53978.95,Bachelor,Designer,Chicago,584,32792.66,4.8,Married,Rejected,1727.82,2017-02-20
+C000999,65,Male,97788.48,Bachelor,Manager,Chicago,590,183202.93,19.7,Married,Approved,4447.47,2020-06-12
+C001000,44,Male,64155.75,Bachelor,Analyst,Phoenix,598,99295.73,11.8,Married,Rejected,2225.76,2017-08-19
+C000522,27,Female,56210.89,Master,Technician,Austin,567,29109.46,2.8,Single,Rejected,2787.47,2023-01-10
+C000738,36,Female,41694.1,Bachelor,Designer,Denver,546,48338.06,2.9,Married,Rejected,1796.09,2016-08-07
+C000741,58,Female,80500.15,Master,Manager,Austin,606,41292.15,17.1,Married,Rejected,1490.23,2022-01-04
+C000661,29,Female,36049.87,High School,Teacher,Austin,632,37379.45,3.0,Married,Rejected,2402.5,2023-07-24
+C000412,31,Female,56417.85,Master,Nurse,Chicago,555,57346.44,2.9,Married,Rejected,2858.29,2016-07-01
+C000679,45,Female,60879.26,High School,Sales,Miami,630,118593.17,14.0,Married,Rejected,2155.74,2020-04-16
+C000627,36,Female,53544.23,Bachelor,Nurse,Phoenix,555,90349.79,5.6,Married,Rejected,2294.5,2016-12-26
+C000514,58,Female,103056.74,Doctorate,Manager,Austin,721,108796.84,15.7,Single,Rejected,5618.39,2015-07-11
+C000860,57,Female,69811.62,High School,Technician,Phoenix,575,128672.17,12.0,Married,Rejected,2563.63,2017-11-26
+C000137,48,Female,73398.19,Bachelor,Nurse,Denver,655,153974.41,16.8,Married,Rejected,3671.51,2015-03-21

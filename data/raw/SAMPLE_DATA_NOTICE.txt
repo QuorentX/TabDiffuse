@@ -1,0 +1,14 @@
+This directory contains simulated demonstration tables created by
+src/data/sample_data.py. None of these files is a real customer or
+transaction extract.
+
+demo_set_a_lending.csv
+    Set A for the first testing and processing run. Mixed lending columns,
+    including an ID column, dates, and loan_status.
+
+demo_set_b_retail.csv
+    Set B for a second processing run on a different table. Mixed retail
+    columns, including an ID column, dates, and churn_status.
+
+sample_customer_data.csv
+    A copy of the lending demonstration table kept for earlier examples.

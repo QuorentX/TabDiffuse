@@ -1,0 +1,9 @@
+# Optional packages. TabDiffuse runs without them.
+# CTGAN baseline
+ctgan>=0.10,<1
+# Experiment tracking
+mlflow>=2.12,<4
+# UMAP projections
+umap-learn>=0.5,<1
+# Additional synthetic-data metrics
+sdmetrics>=0.14,<1

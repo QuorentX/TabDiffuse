@@ -1,0 +1,26 @@
+# Example constraints. Nothing is applied until you enable constraints
+# in the generation screen. Prefer action: reject unless you explicitly
+# want clipping. Every modified or rejected row is counted.
+constraints:
+  - column: customer_age
+    type: range
+    min: 18
+    max: 100
+    action: reject
+  - column: income
+    type: minimum
+    value: 0
+    action: clip
+  - column: credit_score
+    type: range
+    min: 300
+    max: 850
+    action: reject
+  - column: loan_amount
+    type: minimum
+    value: 0
+    action: reject
+  - column: monthly_expense
+    type: minimum
+    value: 0
+    action: reject
