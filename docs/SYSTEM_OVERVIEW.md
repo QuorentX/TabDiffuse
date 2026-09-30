@@ -231,7 +231,7 @@ A page button does not write the sidebar selection directly. It queues the next 
 
 The landing page. Four status cards show whether a dataset is loaded, whether a model is trained, how many synthetic rows are in memory, and whether an evaluation exists. A workflow strip lists Upload, Profile, Preprocess, Train, Generate, Evaluate, and Report. Research notes are typed here: question, hypothesis, dataset description, observations, and conclusion. Those notes are stored with the experiment and copied into the report.
 
-Buttons: **Load demo set A — Lending**, **Load demo set B — Retail**, and, after a table is loaded, **Continue to profiling**.
+After a table is loaded from Dataset Upload, **Continue to profiling** opens the next page.
 
 ### Dataset Upload
 

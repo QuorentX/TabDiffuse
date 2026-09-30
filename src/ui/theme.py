@@ -41,6 +41,9 @@ CSS = """
         margin: 8px 0 14px 0;
     }
     div[data-testid="stMetric"] { background: white; border: 1px solid #e2e8ee; padding: 8px 12px; border-radius: 10px; }
+    div[data-testid="stPlotlyChart"] {
+        margin: 0.75rem 0 2rem 0;
+    }
 </style>
 """
 

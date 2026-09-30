@@ -20,4 +20,4 @@ def heatmap(matrix: list[list[float]] | np.ndarray, labels: list[str], title: st
             colorbar={"title": "corr"},
         )
     )
-    return apply_layout(figure, title)
+    return apply_layout(figure, title, height=520)

@@ -59,7 +59,7 @@ def render(state: dict[str, Any]) -> None:
         else:
             column = st.selectbox("Numerical column", numeric, key="quality_num")
             st.plotly_chart(histogram_figure(real[column], synthetic[column], column), use_container_width=True)
-            left, right = st.columns(2)
+            left, right = st.columns(2, gap="large")
             left.plotly_chart(box_figure(real[column], synthetic[column], "Box plot"), use_container_width=True)
             right.plotly_chart(ecdf_figure(real[column], synthetic[column], "ECDF"), use_container_width=True)
     with tabs[1]:

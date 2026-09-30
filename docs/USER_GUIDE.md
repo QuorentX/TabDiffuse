@@ -22,29 +22,13 @@ If the page is already open, refresh it after the app starts.
 
 ## What you will need
 
-Use one of these:
-
-- **Demo set A — Lending**, a simulated loan table. The target column is `loan_status`.
-- **Demo set B — Retail**, a simulated orders table. The target column is `churn_status`.
-- Your own CSV, TSV, Excel, or Parquet file.
-
-The two demo sets are practice data. They are not real customer extracts.
-
-For a first run, use a demo set. Demo Mode uses a smaller model so a normal computer can finish training.
+Use your own CSV, TSV, Excel, or Parquet file. Open **Dataset Upload**, choose the file, and click **Analyze dataset**.
 
 ## Do the steps in this order
 
 ### 1. Home
 
-Click **Load demo set A — Lending** or **Load demo set B — Retail**.
-
-A banner appears: “Demo Mode – Reduced training configuration”.
-
-You can type a research question, a hypothesis, and notes on this page. Those notes are saved with the report.
-
-Click **Continue to profiling**.
-
-To use your own file instead, open **Dataset Upload**, choose the file, click **Analyze dataset**, then **Continue to profiling**.
+You can type a research question, a hypothesis, and notes on this page. Those notes are saved with the report. The table itself is loaded from **Dataset Upload**. After that page analyzes the file, click **Continue to profiling**.
 
 ### 2. Data Profiling
 

@@ -149,7 +149,7 @@ flowchart TD
 
 **Page:** Home or Dataset Upload.
 
-On Home, **Load demo set A — Lending** or **Load demo set B — Retail** reads a simulated CSV, profiles it, switches on Demo Mode, and clears any previous experiment. Both files are generated, not customer extracts.
+Home records the current experiment and the research notes. The table is loaded from Dataset Upload.
 
 | Set | File | Role |
 |---|---|---|
